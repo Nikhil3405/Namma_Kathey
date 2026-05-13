@@ -1,0 +1,293 @@
+{
+  "districts": [
+    {
+      "id": "belagavi",
+      "name_en": "Belagavi",
+      "name_kn": "ಬೆಳಗಾವಿ",
+      "heroes": [
+        {
+          "id": "kittur_chennamma",
+          "name_en": "Kittur Chennamma",
+          "name_kn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ",
+          "short_desc_en": "Queen of Kittur who fought the British.",
+          "short_desc_kn": "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಕಿತ್ತೂರಿನ ರಾಣಿ.",
+          "image": "kittur",
+          "story": {
+            "en": [
+              "Kittur Chennamma was a brave queen.heelo i am good good bye said by the heman,....''./",
+              "She fought against the British.",
+              "She inspired many people.",
+              "Her courage is remembered forever."
+            ],
+            "kn": [
+              "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ.",
+              "ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು.",
+              "ಅವರು ಅನೇಕರಿಗೆ ಪ್ರೇರಣೆ ನೀಡಿದರು.",
+              "ಅವರ ಧೈರ್ಯ ಸದಾ ನೆನಪಿನಲ್ಲಿ ಉಳಿಯುತ್ತದೆ."
+            ]
+          },
+          "quiz": [
+            {
+              "question_en": "Who was Kittur Chennamma?",
+              "question_kn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಯಾರು?",
+              "options_en": ["Queen", "Teacher", "Doctor", "Farmer"],
+              "options_kn": ["ರಾಣಿ", "ಶಿಕ್ಷಕಿ", "ವೈದ್ಯ", "ರೈತ"],
+              "answer": 0
+            },
+            {
+              "question_en": "Whom did she fight?",
+              "question_kn": "ಅವರು ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+              "options_en": ["British", "Mughals", "French", "None"],
+              "options_kn": ["ಬ್ರಿಟಿಷ್", "ಮೊಘಲ್", "ಫ್ರೆಂಚ್", "ಯಾರೂ ಇಲ್ಲ"],
+              "answer": 0
+            },
+            {
+              "question_en": "What is she known for?",
+              "question_kn": "ಅವರು ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧರು?",
+              "options_en": ["Courage", "Dance", "Music", "Cooking"],
+              "options_kn": ["ಧೈರ್ಯ", "ನೃತ್ಯ", "ಸಂಗೀತ", "ಅಡುಗೆ"],
+              "answer": 0
+            }
+          ],
+          "location": {
+            "name": "Kittur Fort",
+            "lat": 15.5937,
+            "lng": 74.5254
+          }
+        },
+        {
+          "id": "sangolli_rayanna",
+          "name_en": "Sangolli Rayanna",
+          "name_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+          "short_desc_en": "Brave warrior of Kittur.",
+          "short_desc_kn": "ಕಿತ್ತೂರಿನ ಧೈರ್ಯಶಾಲಿ ಯೋಧ.",
+          "image": "sangolli",
+          "story": {
+            "en": [
+              "Kittur Chennamma was a brave queen.heelo fsjf dfsd fsdfjsdfsdhfsdfskhfshfidshf",
+              "She fought against the British.",
+              "She inspired many people.",
+              "Her courage is remembered forever."
+            ],
+            "kn": [
+              "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ.",
+              "ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು.",
+              "ಅವರು ಅನೇಕರಿಗೆ ಪ್ರೇರಣೆ ನೀಡಿದರು.",
+              "ಅವರ ಧೈರ್ಯ ಸದಾ ನೆನಪಿನಲ್ಲಿ ಉಳಿಯುತ್ತದೆ."
+            ]
+          },
+          "quiz": [
+            {
+              "question_en": "Who was Kittur Chennamma?",
+              "question_kn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಯಾರು?",
+              "options_en": ["Queen", "Teacher", "Doctor", "Farmer"],
+              "options_kn": ["ರಾಣಿ", "ಶಿಕ್ಷಕಿ", "ವೈದ್ಯ", "ರೈತ"],
+              "answer": 0
+            },
+            {
+              "question_en": "Whom did she fight?",
+              "question_kn": "ಅವರು ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+              "options_en": ["British", "Mughals", "French", "None"],
+              "options_kn": ["ಬ್ರಿಟಿಷ್", "ಮೊಘಲ್", "ಫ್ರೆಂಚ್", "ಯಾರೂ ಇಲ್ಲ"],
+              "answer": 0
+            },
+            {
+              "question_en": "What is she known for?",
+              "question_kn": "ಅವರು ಯಾವ ಕಾರಣಕ್ಕೆ ಪ್ರಸಿದ್ಧರು?",
+              "options_en": ["Courage", "Dance", "Music", "Cooking"],
+              "options_kn": ["ಧೈರ್ಯ", "ನೃತ್ಯ", "ಸಂಗೀತ", "ಅಡುಗೆ"],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bengaluru_urban",
+          "name_en": "Bengaluru Urban",
+          "name_kn": "ಬೆಂಗಳೂರು ನಗರ",
+          "heroes": [
+            {
+              "id": "kempe_gowda",
+              "name_en": "Nadaprabhu Kempe Gowda",
+              "name_kn": "ನಾದಪ್ರಭು ಕೆಂಪೇಗೌಡ",
+              "short_desc_en": "The visionary founder and architect of Bengaluru city.",
+              "short_desc_kn": "ಬೆಂಗಳೂರು ನಗರದ ಸಂಸ್ಥಾಪಕರು ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕ.",
+              "image": "kempegowda",
+              "story": {
+                "en": [
+                  "Many years ago, before Bengaluru became a busy city filled with lights, buses, and tall buildings, the land was peaceful and green. There were small villages, beautiful lakes, and thick forests where birds sang every morning. In this land, a boy named Kempegowda was born.\n\nAs a child, Kempegowda loved listening to stories from elders. He would sit beside farmers and hear about their struggles. Sometimes there was not enough water for crops. Sometimes travelers felt unsafe while crossing forests. The young boy quietly watched everything around him and wondered, “Can I make life better for these people one day?”\n\nEven as a child, he was brave and kind. If he saw someone hungry, he shared food. If he saw animals injured, he helped them. The villagers began to notice that the boy had a caring heart.",
+                  "As Kempegowda grew older, he became strong, wise, and hardworking. He learned horse riding, leadership, and the importance of protecting people. But more than power, he cared about peace.\n\nOne evening, while standing on a hill and looking at the wide land around him, he had a great dream. He imagined a wonderful city where people from different places could live together happily. He dreamed of markets full of laughter, lakes full of clean water, and streets where children could run safely.\n\nMany people thought his dream was impossible. “This land is full of rocks and forests,” they said. “How can a great city rise here?” But Kempegowda smiled calmly. Deep inside, he believed that courage and patience could change anything.",
+                  "Kempegowda began his work slowly and carefully. Every morning before sunrise, he rode across the land with his helpers. He studied the soil, the lakes, and the villages. He spoke kindly with farmers, traders, and workers.\n\nHe ordered the building of strong forts to protect the people. He built roads so travelers could move safely. He also created markets where farmers and merchants could sell goods.\n\nBut one thing was most important to him — water. He knew that without water, no city could survive. So he encouraged the construction of lakes and ponds all around the region. These lakes helped farmers grow crops and gave drinking water to families.\n\nThe people admired him because he did not simply give orders from a palace. He walked among ordinary people and understood their problems.",
+                  "Years passed, and the small settlements slowly began changing into a growing town. Music filled the markets. Traders from faraway places arrived with colorful fabrics, spices, and stories. Temples became centers of learning and culture.\n\nKempegowda also believed nature should be protected. He planted trees along roads so travelers could rest in the shade during hot afternoons. Birds chirped from the branches, and children played happily nearby.\n\nWhenever problems came, Kempegowda remained calm. During difficult times, he encouraged people not to lose hope. He reminded them that a strong city is built not only with stones and roads, but also with kindness, unity, and hard work.\n\nPeople trusted him because he treated rich and poor equally. To him, every citizen mattered.",
+                  "One of Kempegowda’s most famous ideas was building watch towers around the city. These towers marked the boundaries of Bengaluru and showed how far he imagined the city would grow.\n\nAt that time, many people laughed at the idea. They could not imagine such a large city in the future. But Kempegowda believed deeply in his vision.\n\nYears later, his dream slowly became real. Bengaluru continued to grow bigger and stronger. Schools, homes, gardens, and businesses filled the land. People from many cultures came together and made the city lively and beautiful.\n\nEven today, some of the lakes and places created during his time continue to remind people of his wisdom and planning.",
+                  "Today, Bengaluru is one of the most famous cities in India. It is known for science, technology, education, music, and culture. Millions of people live and work here.\n\nBut long before all this happened, there was one man who dared to dream about a better future for everyone. That man was Kempegowda.\n\nChildren still remember him because his story teaches an important lesson — great things begin with a simple dream and a brave heart. A true leader is someone who cares for people, protects nature, and works hard without giving up.\n\nWhenever people see Bengaluru shining brightly at night, they also remember the kind ruler who once looked at an empty land and imagined a beautiful city for future generations."
+                ],
+                "kn": [
+                  "ಬಹಳ ವರ್ಷಗಳ ಹಿಂದೆ, ಇಂದು ನಾವು ನೋಡುವ ದೊಡ್ಡ ಬೆಂಗಳೂರು ನಗರ ಇರಲಿಲ್ಲ. ಅಲ್ಲಿ ಹಸಿರು ಹೊಲಗಳು, ಸುಂದರ ಕೆರೆಗಳು ಮತ್ತು ದಟ್ಟ ಕಾಡುಗಳು ಮಾತ್ರ ಇದ್ದವು. ಬೆಳಿಗ್ಗೆ ಪಕ್ಷಿಗಳ ಕೂಗು ಕೇಳಿಬರುತ್ತಿತ್ತು. ಆ ಶಾಂತ ನೆಲದಲ್ಲಿ ಕೆಂಪೇಗೌಡ ಎಂಬ ಬಾಲಕ ಜನಿಸಿದನು.\n\nಬಾಲ್ಯದಲ್ಲೇ ಕೆಂಪೇಗೌಡರಿಗೆ ಹಿರಿಯರ ಕಥೆಗಳು ಕೇಳುವುದು ತುಂಬ ಇಷ್ಟವಾಗಿತ್ತು. ರೈತರು ಎದುರಿಸುತ್ತಿದ್ದ ಕಷ್ಟಗಳನ್ನು ಅವರು ಗಮನದಿಂದ ಕೇಳುತ್ತಿದ್ದರು. ಕೆಲವೊಮ್ಮೆ ಬೆಳೆಗಳಿಗೆ ನೀರು ಸಾಲುತ್ತಿರಲಿಲ್ಲ. ಕೆಲವೊಮ್ಮೆ ಕಾಡುಗಳಲ್ಲಿ ಪ್ರಯಾಣಿಸುವವರಿಗೆ ಭಯವಾಗುತ್ತಿತ್ತು. ಆಗ ಬಾಲಕ ಕೆಂಪೇಗೌಡ ಮನಸ್ಸಿನಲ್ಲಿ ಒಂದು ಪ್ರಶ್ನೆ ಕೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದ — “ಒಂದು ದಿನ ನಾನು ಜನರಿಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ?”\n\nಅವರು ಬಾಲ್ಯದಲ್ಲೇ ದಯಾಳು ಮತ್ತು ಧೈರ್ಯಶಾಲಿಯಾಗಿದ್ದರು. ಹಸಿದವರಿಗೆ ಊಟ ಹಂಚುತ್ತಿದ್ದರು. ಗಾಯಗೊಂಡ ಪ್ರಾಣಿಗಳಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದರು. ಹಳ್ಳಿಯ ಜನರು ಆ ಬಾಲಕನ ಒಳ್ಳೆಯ ಮನಸ್ಸನ್ನು ಮೆಚ್ಚತೊಡಗಿದರು.",
+                  "ಕೆಂಪೇಗೌಡರು ದೊಡ್ಡವರಾದಂತೆ ಜ್ಞಾನಿ ಮತ್ತು ಪರಿಶ್ರಮಿಯಾಗಿದರು. ಕುದುರೆ ಸವಾರಿ, ನಾಯಕತ್ವ ಮತ್ತು ಜನರ ರಕ್ಷಣೆಯ ಮಹತ್ವವನ್ನು ಕಲಿತರು. ಆದರೆ ಅವರಿಗೆ ಅಧಿಕಾರಕ್ಕಿಂತ ಶಾಂತಿ ಮುಖ್ಯವಾಗಿತ್ತು.\n\nಒಂದು ಸಂಜೆ ಅವರು ಬೆಟ್ಟದ ಮೇಲೆ ನಿಂತು ಸುತ್ತಲಿನ ನೆಲವನ್ನು ನೋಡುತ್ತಿದ್ದರು. ಆಗ ಅವರ ಮನಸ್ಸಿನಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಕನಸು ಹುಟ್ಟಿತು. ಎಲ್ಲರೂ ಸಂತೋಷದಿಂದ ಬದುಕುವ ಮಹಾನಗರವನ್ನು ನಿರ್ಮಿಸಬೇಕು ಎಂದು ಅವರು ಬಯಸಿದರು.\n\nನಗು, ಸಂಗೀತ ಮತ್ತು ಸಂತೋಷದಿಂದ ತುಂಬಿದ ಮಾರುಕಟ್ಟೆಗಳು ಇರಬೇಕು ಎಂದು ಅವರು ಕನಸು ಕಂಡರು. ಮಕ್ಕಳಿಗೆ ಸುರಕ್ಷಿತ ರಸ್ತೆಗಳು ಇರಬೇಕು ಎಂದು ಬಯಸಿದರು.\n\nಆದರೆ ಹಲವರು ಅವರ ಕನಸನ್ನು ಅಸಾಧ್ಯ ಎಂದು ಹೇಳಿದರು. “ಈ ಜಾಗದಲ್ಲಿ ಹೇಗೆ ದೊಡ್ಡ ನಗರ ನಿರ್ಮಾಣವಾಗುತ್ತದೆ?” ಎಂದು ಪ್ರಶ್ನಿಸಿದರು. ಆದರೆ ಕೆಂಪೇಗೌಡರು ಧೈರ್ಯ ಕಳೆದುಕೊಳ್ಳಲಿಲ್ಲ.",
+                  "ಕೆಂಪೇಗೌಡರು ತಮ್ಮ ಕೆಲಸವನ್ನು ನಿಧಾನವಾಗಿ ಆರಂಭಿಸಿದರು. ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಸಹಾಯಕರೊಂದಿಗೆ ನೆಲವನ್ನು ಸುತ್ತಾಡುತ್ತಿದ್ದರು. ರೈತರು, ವ್ಯಾಪಾರಿಗಳು ಮತ್ತು ಸಾಮಾನ್ಯ ಜನರ ಜೊತೆ ಮಾತನಾಡುತ್ತಿದ್ದರು.\n\nಜನರ ರಕ್ಷಣೆಗೆ ಕೋಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಪ್ರಯಾಣಿಕರಿಗೆ ಸುರಕ್ಷಿತ ರಸ್ತೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ರೈತರು ಮತ್ತು ವ್ಯಾಪಾರಿಗಳು ತಮ್ಮ ವಸ್ತುಗಳನ್ನು ಮಾರಲು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ಕಟ್ಟಿಸಿದರು.\n\nಆದರೆ ಅವರಿಗೆ ಅತ್ಯಂತ ಮುಖ್ಯವಾದದ್ದು ನೀರು. ನೀರಿಲ್ಲದೆ ನಗರ ಬದುಕಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ಅವರು ತಿಳಿದಿದ್ದರು. ಆದ್ದರಿಂದ ಅನೇಕ ಕೆರೆಗಳು ಮತ್ತು ಕೊಳಗಳನ್ನು ನಿರ್ಮಿಸಲು ಪ್ರೋತ್ಸಾಹಿಸಿದರು.\n\nಜನರು ಅವರನ್ನು ಮೆಚ್ಚಿದರು, ಏಕೆಂದರೆ ಅವರು ಅರಮನೆಯಲ್ಲಿ ಮಾತ್ರ ಕುಳಿತು ಆದೇಶ ನೀಡುವ ನಾಯಕನಾಗಿರಲಿಲ್ಲ. ಜನರ ನಡುವೆ ನಡೆದು ಅವರ ಸಮಸ್ಯೆಗಳನ್ನು ಅರಿತುಕೊಳ್ಳುತ್ತಿದ್ದರು.",
+                  "ವರ್ಷಗಳು ಕಳೆಯುತ್ತಾ ಸಣ್ಣ ಹಳ್ಳಿಗಳು ನಿಧಾನವಾಗಿ ದೊಡ್ಡ ಪಟ್ಟಣವಾಗಿ ಬೆಳೆದವು. ಮಾರುಕಟ್ಟೆಗಳಲ್ಲಿ ಸಂಗೀತ ಕೇಳಿಬರುತ್ತಿತ್ತು. ದೂರದ ಊರುಗಳಿಂದ ವ್ಯಾಪಾರಿಗಳು ಬರುತ್ತಿದ್ದರು.\n\nಕೆಂಪೇಗೌಡರು ಪ್ರಕೃತಿಯನ್ನೂ ತುಂಬ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ರಸ್ತೆಗಳ ಬದಿಯಲ್ಲಿ ಮರಗಳನ್ನು ನೆಡಿಸಿದರು. ಬಿಸಿಲಿನಲ್ಲಿ ಪ್ರಯಾಣಿಕರು ಅವುಗಳ ನೆರಳಿನಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯುತ್ತಿದ್ದರು.\n\nಸಮಸ್ಯೆಗಳು ಬಂದಾಗಲೂ ಅವರು ಶಾಂತವಾಗಿದ್ದರು. “ಒಳ್ಳೆಯ ನಗರವನ್ನು ಕಟ್ಟಲು ಕಲ್ಲುಗಳು ಮಾತ್ರ ಸಾಲದು. ಒಗ್ಗಟ್ಟು ಮತ್ತು ದಯೆಯೂ ಬೇಕು,” ಎಂದು ಜನರಿಗೆ ಹೇಳುತ್ತಿದ್ದರು.\n\nಶ್ರೀಮಂತರಾಗಲಿ ಬಡವರಾಗಲಿ ಎಲ್ಲರನ್ನೂ ಸಮಾನವಾಗಿ ನೋಡುತ್ತಿದ್ದರು. ಅದರಿಂದ ಜನರು ಅವರನ್ನು ತುಂಬ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು.",
+                  "ಕೆಂಪೇಗೌಡರ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಕೆಲಸಗಳಲ್ಲಿ ಒಂದು ಗೋಪುರಗಳನ್ನು ನಿರ್ಮಿಸುವುದಾಗಿತ್ತು. ಆ ಗೋಪುರಗಳು ಬೆಂಗಳೂರಿನ ಗಡಿಯನ್ನು ತೋರಿಸುತ್ತಿದ್ದವು.\n\nಆ ಸಮಯದಲ್ಲಿ ಹಲವರು “ಇಷ್ಟು ದೊಡ್ಡ ನಗರ ಹೇಗೆ ಬೆಳೆಯುತ್ತದೆ?” ಎಂದು ನಕ್ಕರು. ಆದರೆ ಕೆಂಪೇಗೌಡರು ತಮ್ಮ ಕನಸಿನ ಮೇಲೆ ನಂಬಿಕೆ ಇಟ್ಟುಕೊಂಡಿದ್ದರು.\n\nವರ್ಷಗಳ ನಂತರ ಅವರ ಕನಸು ನಿಜವಾಗತೊಡಗಿತು. ಬೆಂಗಳೂರು ನಿಧಾನವಾಗಿ ದೊಡ್ಡ ಮತ್ತು ಸುಂದರ ನಗರವಾಯಿತು. ಶಾಲೆಗಳು, ಮನೆಗಳು, ಉದ್ಯಾನಗಳು ಮತ್ತು ವ್ಯಾಪಾರ ಕೇಂದ್ರಗಳು ನಿರ್ಮಾಣವಾದವು.\n\nಇಂದಿಗೂ ಅವರ ಕಾಲದಲ್ಲಿ ನಿರ್ಮಿಸಲಾದ ಕೆಲವು ಕೆರೆಗಳು ಮತ್ತು ಸ್ಥಳಗಳು ಜನರಿಗೆ ಅವರ ಜ್ಞಾನ ಮತ್ತು ದೂರದೃಷ್ಟಿಯನ್ನು ನೆನಪಿಸುತ್ತವೆ.",
+                  "ಇಂದು ಬೆಂಗಳೂರು ಭಾರತದಲ್ಲಿನ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ನಗರಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ವಿಜ್ಞಾನ, ತಂತ್ರಜ್ಞಾನ, ಶಿಕ್ಷಣ ಮತ್ತು ಸಂಸ್ಕೃತಿಗೆ ಇದು ಪ್ರಸಿದ್ಧವಾಗಿದೆ.\n\nಆದರೆ ಈ ಮಹಾನಗರದ ಹಿಂದೆ ಒಂದು ಧೈರ್ಯಶಾಲಿ ನಾಯಕನ ಕನಸು ಇತ್ತು. ಆ ನಾಯಕನೇ ಕೆಂಪೇಗೌಡ.\n\nಅವರ ಕಥೆ ಮಕ್ಕಳಿಗೆ ಒಂದು ಮಹತ್ವದ ಪಾಠ ಕಲಿಸುತ್ತದೆ — ದೊಡ್ಡ ಸಾಧನೆಗಳು ಒಂದು ಚಿಕ್ಕ ಕನಸಿನಿಂದ ಆರಂಭವಾಗುತ್ತವೆ. ಒಳ್ಳೆಯ ನಾಯಕನು ಜನರಿಗಾಗಿ ಕೆಲಸ ಮಾಡುವವನು.\n\nರಾತ್ರಿ ಸಮಯದಲ್ಲಿ ಬೆಳಕುಗಳಿಂದ ಹೊಳೆಯುವ ಬೆಂಗಳೂರನ್ನು ನೋಡಿದಾಗ, ಜನರು ಇನ್ನೂ ಕೆಂಪೇಗೌಡರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. ಏಕೆಂದರೆ ಅವರು ಭವಿಷ್ಯದ ಜನರಿಗಾಗಿ ಒಂದು ಸುಂದರ ನಗರವನ್ನು ಕನಸು ಕಂಡಿದ್ದರು."
+                ]
+              },
+              "quiz": [
+                {
+                  "question_en": "What was the dream of Kempegowda?",
+                  "question_kn": "ಕೆಂಪೇಗೌಡರ ಕನಸು ಏನು ಆಗಿತ್ತು?",
+                  "options_en": [
+                    "To build a peaceful city",
+                    "To become a sailor",
+                    "To travel around the world",
+                    "To live alone in a forest"
+                  ],
+                  "options_kn": [
+                    "ಶಾಂತಿಯುತ ನಗರವನ್ನು ನಿರ್ಮಿಸುವುದು",
+                    "ಹಡಗು ಚಾಲಕರಾಗುವುದು",
+                    "ಜಗತ್ತನ್ನು ಸುತ್ತುವುದು",
+                    "ಕಾಡಿನಲ್ಲಿ ಒಬ್ಬರೇ ಬದುಕುವುದು"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "question_en": "Why did Kempegowda build many lakes around the city?",
+                  "question_kn": "ಕೆಂಪೇಗೌಡರು ನಗರದ ಸುತ್ತಲೂ ಅನೇಕ ಕೆರೆಗಳನ್ನು ಏಕೆ ನಿರ್ಮಿಸಿದರು?",
+                  "options_en": [
+                    "For horse races",
+                    "To store water for people and farms",
+                    "For fishing competitions",
+                    "To decorate the city"
+                  ],
+                  "options_kn": [
+                    "ಕುದುರೆ ಓಟಗಳಿಗಾಗಿ",
+                    "ಜನರು ಮತ್ತು ಹೊಲಗಳಿಗೆ ನೀರು ಸಂಗ್ರಹಿಸಲು",
+                    "ಮೀನುಗಾರಿಕೆ ಸ್ಪರ್ಧೆಗಳಿಗಾಗಿ",
+                    "ನಗರವನ್ನು ಅಲಂಕರಿಸಲು"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "question_en": "What did Kempegowda build to protect Bengaluru?",
+                  "question_kn": "ಬೆಂಗಳೂರು ನಗರವನ್ನು ರಕ್ಷಿಸಲು ಕೆಂಪೇಗೌಡರು ಏನು ನಿರ್ಮಿಸಿದರು?",
+                  "options_en": [
+                    "Airports",
+                    "Factories",
+                    "Forts and watch towers",
+                    "Bridges"
+                  ],
+                  "options_kn": [
+                    "ವಿಮಾನ ನಿಲ್ದಾಣಗಳು",
+                    "ಕಾರ್ಖಾನೆಗಳು",
+                    "ಕೋಟೆಗಳು ಮತ್ತು ಗೋಪುರಗಳು",
+                    "ಸೇತುವೆಗಳು"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "question_en": "How did Kempegowda treat the people of his city?",
+                  "question_kn": "ಕೆಂಪೇಗೌಡರು ತಮ್ಮ ನಗರದ ಜನರನ್ನು ಹೇಗೆ ನೋಡುತ್ತಿದ್ದರು?",
+                  "options_en": [
+                    "Only rich people mattered",
+                    "He treated everyone equally",
+                    "He ignored villagers",
+                    "He was always angry"
+                  ],
+                  "options_kn": [
+                    "ಶ್ರೀಮಂತರನ್ನೇ ಮುಖ್ಯವೆಂದು ನೋಡುತ್ತಿದ್ದರು",
+                    "ಎಲ್ಲರನ್ನೂ ಸಮಾನವಾಗಿ ನೋಡುತ್ತಿದ್ದರು",
+                    "ಹಳ್ಳಿಯ ಜನರನ್ನು ಕಡೆಗಣಿಸುತ್ತಿದ್ದರು",
+                    "ಯಾವಾಗಲೂ ಕೋಪದಲ್ಲಿರುತ್ತಿದ್ದರು"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "question_en": "What lesson do children learn from Kempegowda’s story?",
+                  "question_kn": "ಕೆಂಪೇಗೌಡರ ಕಥೆಯಿಂದ ಮಕ್ಕಳು ಯಾವ ಪಾಠ ಕಲಿಯುತ್ತಾರೆ?",
+                  "options_en": [
+                    "Dream big and help people",
+                    "Avoid hard work",
+                    "Never trust others",
+                    "Keep dreams secret"
+                  ],
+                  "options_kn": [
+                    "ದೊಡ್ಡ ಕನಸು ಕಾಣು ಮತ್ತು ಜನರಿಗೆ ಸಹಾಯ ಮಾಡು",
+                    "ಪರಿಶ್ರಮ ತಪ್ಪಿಸು",
+                    "ಇತರರನ್ನು ನಂಬಬೇಡ",
+                    "ಕನಸುಗಳನ್ನು ಗುಪ್ತವಾಗಿರಿಸು"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "location": {
+                "name": "Kempe Gowda Watchtower, Lalbagh",
+                "lat": 12.9507,
+                "lng": 77.5848
+              }
+            },
+            {
+              "id": "kengal_hanumanthaiah",
+              "name_en": "Kengal Hanumanthaiah",
+              "name_kn": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ",
+              "short_desc_en": "The second Chief Minister of Karnataka and creator of the Vidhana Soudha.",
+              "short_desc_kn": "ಕರ್ನಾಟಕದ ಎರಡನೇ ಮುಖ್ಯಮಂತ್ರಿ ಮತ್ತು ವಿಧಾನಸೌಧದ ನಿರ್ಮಾತೃ.",
+              "image": "kengal",
+              "story": {
+                "en": [
+                  "Imagine a building so grand and beautiful that it looks like a palace for the people. This building is the Vidhana Soudha, and the man who dreamt of it was Kengal Hanumanthaiah.",
+                  "Born in a small village near Bengaluru, Hanumanthaiah was a bright boy who loved his country. He joined the freedom struggle to help India become independent.",
+                  "He believed that the government should work in a place that reflected the pride and culture of Karnataka. He didn't want a building that looked like it belonged to another country.",
+                  "When he became the Chief Minister, he visited many countries. He saw their grand buildings and thought, 'Our Karnataka deserves a building even more magnificent!'",
+                  "He chose the best granite stones from the quarries of Bengaluru. Thousands of workers and sculptors worked day and night to carve beautiful designs into the stone.",
+                  "People told him it would cost too much money. But Hanumanthaiah said, 'This is not just a building; it is a symbol of our people's strength and dignity.'",
+                  "He personally supervised the work. He ensured that the architecture blended the styles of temples from Mysore, Belur, and Hampi.",
+                  "On the front of the building, he placed the powerful words: 'Government's Work is God's Work.' He wanted every leader to remember they are there to serve the people.",
+                  "Today, the Vidhana Soudha is one of the most famous buildings in India. It stands tall in the heart of Bengaluru, glowing beautifully at night.",
+                  "Kengal Hanumanthaiah's life teaches us to take pride in our culture and to dream big for our community. He showed us that work done for others is the highest form of prayer."
+                ],
+                "kn": [
+                  "ಜನರಿಗಾಗಿ ಕಟ್ಟಿದ ಅರಮನೆಯಂತಿರುವ ಒಂದು ಭವ್ಯ ಕಟ್ಟಡವನ್ನು ಕಲ್ಪಿಸಿಕೊಳ್ಳಿ. ಅದೇ ನಮ್ಮ ವಿಧಾನಸೌಧ. ಇದರ ಕನಸು ಕಂಡವರು ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯನವರು.",
+                  "ಬೆಂಗಳೂರು ಸಮೀಪದ ಸಣ್ಣ ಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದ ಹನುಮಂತಯ್ಯನವರು ಬಾಲ್ಯದಿಂದಲೇ ದೇಶಪ್ರೇಮಿಯಾಗಿದ್ದರು. ಭಾರತಕ್ಕೆ ಸ್ವಾತಂತ್ರ್ಯ ತರಲು ಅವರು ಹೋರಾಟದಲ್ಲಿ ಪಾಲ್ಗೊಂಡರು.",
+                  "ಸರ್ಕಾರದ ಕಚೇರಿಯು ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಹಿರಿಮೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವಂತಿರಬೇಕು ಎಂದು ಅವರು ನಂಬಿದ್ದರು. ಪರಕೀಯ ಶೈಲಿಯ ಕಟ್ಟಡಗಳು ಅವರಿಗೆ ಇಷ್ಟವಿರಲಿಲ್ಲ.",
+                  "ಮುಖ್ಯಮಂತ್ರಿಯಾದ ನಂತರ ಅವರು ಅನೇಕ ದೇಶಗಳನ್ನು ಸುತ್ತಿದರು. ಅಲ್ಲಿನ ಭವ್ಯ ಕಟ್ಟಡಗಳನ್ನು ಕಂಡು, 'ನಮ್ಮ ಕರ್ನಾಟಕಕ್ಕೆ ಇದಕ್ಕಿಂತಲೂ ಸುಂದರವಾದ ಕಟ್ಟಡ ಬೇಕು' ಎಂದು ನಿರ್ಧರಿಸಿದರು.",
+                  "ಬೆಂಗಳೂರಿನ ಸುತ್ತಮುತ್ತಲ ಕ್ವಾರಿಗಳಿಂದ ಅತ್ಯುತ್ತಮ ಕಪ್ಪು ಶಿಲೆಗಳನ್ನು ಆರಿಸಿದರು. ಸಾವಿರಾರು ಕಾರ್ಮಿಕರು ಮತ್ತು ಶಿಲ್ಪಿಗಳು ಹಗಲಿರುಳು ಶ್ರಮಿಸಿ ಕಲ್ಲಿನಲ್ಲಿ ಕಲೆ ಅರಳಿಸಿದರು.",
+                  "ಕಟ್ಟಡಕ್ಕೆ ತುಂಬಾ ಹಣ ಖರ್ಚಾಗುತ್ತದೆ ಎಂದು ಕೆಲವರು ವಿರೋಧಿಸಿದರು. ಆದರೆ ಹನುಮಂತಯ್ಯನವರು, 'ಇದು ಬರಿ ಕಟ್ಟಡವಲ್ಲ, ಇದು ನಮ್ಮ ಜನರ ಶಕ್ತಿ ಮತ್ತು ಗೌರವದ ಸಂಕೇತ' ಎಂದರು.",
+                  "ಅವರು ಕೆಲಸದ ಉಸ್ತುವಾರಿಯನ್ನು ತಾವೇ ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು. ಮೈಸೂರು, ಬೇಲೂರು ಮತ್ತು ಹಂಪಿಯ ದೇವಾಲಯಗಳ ಶೈಲಿಗಳನ್ನು ಈ ಕಟ್ಟಡದಲ್ಲಿ ಬಳಸುವಂತೆ ಮಾಡಿದರು.",
+                  "ಕಟ್ಟಡದ ಮುಂಭಾಗದಲ್ಲಿ 'ಸರ್ಕಾರದ ಕೆಲಸ ದೇವರ ಕೆಲಸ' ಎಂಬ ಮಾತುಗಳನ್ನು ಕೆತ್ತಿಸಿದರು. ನಾಯಕರು ಯಾವಾಗಲೂ ಜನಸೇವೆಯೇ ಪರಮಧರ್ಮ ಎಂದು ನೆನಪಿಡಬೇಕೆಂದು ಅವರು ಬಯಸಿದ್ದರು.",
+                  "ಇಂದು ವಿಧಾನಸೌಧವು ಭಾರತದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಕಟ್ಟಡಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಬೆಂಗಳೂರಿನ ಹೃದಯಭಾಗದಲ್ಲಿರುವ ಇದು ರಾತ್ರಿಯ ಹೊತ್ತು ದೀಪಾಲಂಕಾರದಿಂದ ಕಂಗೊಳಿಸುತ್ತದೆ.",
+                  "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯನವರ ಜೀವನವು ನಮ್ಮ ಸಂಸ್ಕೃತಿಯ ಬಗ್ಗೆ ಹೆಮ್ಮೆ ಪಡಲು ಮತ್ತು ಸಮಾಜಕ್ಕಾಗಿ ದೊಡ್ಡ ಕನಸು ಕಾಣಲು ನಮಗೆ ಪ್ರೇರಣೆ ನೀಡುತ್ತದೆ."
+                ]
+              },
+              "quiz": [
+                {
+                  "question_en": "Which famous building was built by Kengal Hanumanthaiah?",
+                  "question_kn": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯನವರು ಯಾವ ಪ್ರಸಿದ್ಧ ಕಟ್ಟಡವನ್ನು ನಿರ್ಮಿಸಿದರು?",
+                  "options_en": ["Taj Mahal", "Vidhana Soudha", "Red Fort", "Lalbagh"],
+                  "options_kn": ["ತಾಜ್ ಮಹಲ್", "ವಿಧಾನಸೌಧ", "ಕೆಂಪು ಕೋಟೆ", "ಲಾಲ್‌ಬಾಗ್"],
+                  "answer": 1
+                },
+                {
+                  "question_en": "What is written on the front of the Vidhana Soudha?",
+                  "question_kn": "ವಿಧಾನಸೌಧದ ಮುಂಭಾಗದಲ್ಲಿ ಯಾವ ವಾಕ್ಯವನ್ನು ಕೆತ್ತಲಾಗಿದೆ?",
+                  "options_en": ["Victory to Karnataka", "Jai Hind", "Government's Work is God's Work", "Truth Alone Triumphs"],
+                  "options_kn": ["ಕರ್ನಾಟಕಕ್ಕೆ ಜಯವಾಗಲಿ", "ಜೈ ಹಿಂದ್", "ಸರ್ಕಾರದ ಕೆಲಸ ದೇವರ ಕೆಲಸ", "ಸತ್ಯಮೇವ ಜಯತೇ"],
+                  "answer": 2
+                },
+                {
+                  "question_en": "Kengal Hanumanthaiah was the ___ Chief Minister of Karnataka.",
+                  "question_kn": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯನವರು ಕರ್ನಾಟಕದ ಎಷ್ಟನೇ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+                  "options_en": ["First", "Second", "Fifth", "Tenth"],
+                  "options_kn": ["ಮೊದಲನೆಯ", "ಎರಡನೆಯ", "ಐದನೆಯ", "ಹತ್ತನೆಯ"],
+                  "answer": 1
+                }
+              ],
+              "location": {
+                "name": "Vidhana Soudha, Bengaluru",
+                "lat": 12.9797,
+                "lng": 77.5912
+              }
+            }
+          ]
+        }
+  ]
+}
