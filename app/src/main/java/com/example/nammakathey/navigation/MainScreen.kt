@@ -25,11 +25,23 @@ fun MainScreen(parentNavController: NavHostController) {
 
     val navController = rememberNavController()
     val appViewModel: AppViewModel = viewModel()
+
+    val navBackStackEntry by navController.currentBackStackEntryAsState()
+    val currentRoute = navBackStackEntry?.destination?.route
+
+    val showBottomBar = currentRoute in listOf(
+        "home",
+        "district",
+        "profile"
+    )
+
     Scaffold(
         bottomBar = {
-            BottomBar(navController)
+            if (showBottomBar) {
+                BottomBar(navController)
+            }
         }
-    ) { padding ->
+    ){ padding ->
 
         NavHost(
             navController = navController,

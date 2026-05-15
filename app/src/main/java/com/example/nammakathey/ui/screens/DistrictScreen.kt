@@ -156,66 +156,6 @@ fun DistrictScreen(
                     val isDone   = completedDistricts.contains(name)
                     val initials = name.split(" ")
                         .take(2).joinToString("") { it.take(1) }.uppercase()
-
-                    Surface(
-                        shape           = RoundedCornerShape(16.dp),
-                        color           = if (isDone) TealGreen else NavyBlue,
-                        shadowElevation = 8.dp,
-                        modifier        = Modifier.fillMaxWidth()
-                    ) {
-                        Row(
-                            modifier              = Modifier.padding(14.dp, 12.dp),
-                            verticalAlignment     = Alignment.CenterVertically,
-                            horizontalArrangement = Arrangement.SpaceBetween
-                        ) {
-                            Row(
-                                verticalAlignment     = Alignment.CenterVertically,
-                                horizontalArrangement = Arrangement.spacedBy(12.dp)
-                            ) {
-                                Box(
-                                    modifier         = Modifier
-                                        .size(40.dp)
-                                        .clip(CircleShape)
-                                        .background(Color.White.copy(alpha = 0.2f)),
-                                    contentAlignment = Alignment.Center
-                                ) {
-                                    Text(
-                                        initials,
-                                        fontSize   = 13.sp,
-                                        fontWeight = FontWeight.ExtraBold,
-                                        color      = Color.White
-                                    )
-                                }
-                                Column {
-                                    Text(
-                                        name,
-                                        fontWeight = FontWeight.Bold,
-                                        color      = Color.White,
-                                        fontSize   = 14.sp
-                                    )
-                                    Text(
-                                        if (isDone) "✅ Badge earned!" else "Tap to explore heroes →",
-                                        fontSize = 11.sp,
-                                        color    = Color.White.copy(alpha = 0.8f)
-                                    )
-                                }
-                            }
-                            Surface(
-                                onClick  = { selectedDistrict = null },
-                                shape    = CircleShape,
-                                color    = Color.White.copy(alpha = 0.15f),
-                                modifier = Modifier.size(28.dp)
-                            ) {
-                                Box(contentAlignment = Alignment.Center) {
-                                    Icon(
-                                        Icons.Rounded.Close, null,
-                                        tint     = Color.White,
-                                        modifier = Modifier.size(14.dp)
-                                    )
-                                }
-                            }
-                        }
-                    }
                 }
             }
 
