@@ -6,159 +6,194 @@
 
 ## 🚀 Overview
 
-**Namma-Kathey** is an Android application designed to introduce children to local heroes, freedom fighters, poets, and cultural icons from different districts of Karnataka.
+**Namma-Kathey** is an Android application built using **Kotlin and Jetpack Compose** that introduces children to local heroes, freedom fighters, and cultural icons from various districts of Karnataka.
 
-The app combines **interactive storytelling, bilingual support, and quizzes** to make learning history engaging and meaningful.
+The app delivers a **storybook-like reading experience**, combined with **bilingual support, narration, quizzes, and map-based exploration**, making learning interactive and engaging.
 
 ---
 
 ## 🎯 Features
 
-* 🗺️ **District Map Exploration**
+* 🗺️ **Interactive District Map**
 
-  * Interactive Karnataka map
-  * Tap a district to view its heroes
+  * Karnataka SVG map using WebView
+  * Clickable districts to explore heroes
 
 * 📚 **Storybook Experience**
 
-  * Swipe-based story pages
-  * Clean, distraction-free reading (Kindle-style UI)
+  * Swipe-based pages (ViewPager)
+  * Kindle-style immersive reading UI
 
 * 🌐 **Bilingual Support**
 
-  * English 🇬🇧 and Kannada 🇮🇳 toggle
-  * Content available in both languages
+  * English & Kannada toggle
+  * Dynamic content switching
 
-* 🔊 **Text-to-Speech Narration**
+* 🔊 **Text-to-Speech (TTS)**
 
-  * Listen to stories
-  * Supports Kannada and English
+  * Narration for stories
+  * Supports Kannada & English
 
 * 🧠 **Quiz System**
 
   * 3-question quiz per hero
-  * Reinforces learning
+  * Score-based completion
 
 * 🏆 **Progress Tracking**
 
-  * Hero completion tracking
-  * District completion (all heroes done → district marked complete)
+  * Hero-level completion tracking
+  * District marked complete only when all heroes are completed
 
-* 📍 **Memorial Locator**
+* 📍 **Memorial Navigation**
 
-  * Open Google Maps to visit hero locations
+  * Opens Google Maps for hero locations
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Language:** Kotlin
-* **UI:** Jetpack Compose
-* **Navigation:** Jetpack Navigation
-* **State Management:** ViewModel + State
-* **Data Source:** Local JSON
-* **Media:** Android TextToSpeech (TTS)
-* **Map Integration:** WebView + SVG (Karnataka Map)
+| Category   | Technology                |
+| ---------- | ------------------------- |
+| Language   | Kotlin                    |
+| UI         | Jetpack Compose           |
+| Navigation | Jetpack Navigation        |
+| State      | ViewModel + Compose State |
+| Data       | Local JSON (assets)       |
+| Map        | WebView + SVG             |
+| TTS        | Android TextToSpeech      |
 
 ---
 
-## 🧱 Project Structure
+## 📁 Project Structure
 
 ```text
 app/
-├── data/
-│   ├── model/        # Data models (Hero, Quiz, District)
-│   ├── local/        # JSON loader
+├── manifests/
+
+├── kotlin+java/com.example.nammakathey/
 │
-├── ui/
-│   ├── screens/
-│   │   ├── HomeScreen
-│   │   ├── DistrictScreen
-│   │   ├── HeroListScreen
-│   │   ├── StoryScreen
-│   │   ├── QuizScreen
-│   │   └── ProfileScreen
+│   ├── data/
+│   │   ├── local/
+│   │   │   ├── BadgeStore.kt
+│   │   │   └── JsonLoader.kt
+│   │   │
+│   │   └── model/
+│   │       └── HeroModels.kt
 │
-├── navigation/
-│   ├── AppNavGraph
-│   └── BottomBar
+│   ├── navigation/
+│   │   ├── AppNavGraph.kt
+│   │   ├── BottomBar.kt
+│   │   └── MainScreen.kt
 │
-├── viewmodel/
-│   └── AppViewModel
+│   ├── ui/
+│   │   ├── components/
+│   │   │   └── DistrictBadge.kt
+│   │   │
+│   │   ├── screens/
+│   │   │   ├── HomeScreen.kt
+│   │   │   ├── DistrictScreen.kt
+│   │   │   ├── HeroListScreen.kt
+│   │   │   ├── StoryScreen.kt
+│   │   │   ├── QuizScreen.kt
+│   │   │   └── ProfileScreen.kt
+│   │   │
+│   │   └── theme/
+│   │       ├── Color.kt
+│   │       ├── Theme.kt
+│   │       └── Type.kt
+│
+│   ├── viewmodel/
+│   │   └── AppViewModel.kt
+│
+│   └── MainActivity.kt
+│
+├── assets/
+│   ├── heroes.json
+│   ├── index.html
+│   └── karnataka_map.svg
+│
+├── res/
+│   ├── drawable/   (hero images + icons)
+│   ├── mipmap/
+│   ├── values/
+│   └── xml/
 ```
 
 ---
 
-## 📱 App Flow
+## 📱 App Workflow
 
 ```text
 Home Screen
    ↓
-District Map
+District Map (SVG)
    ↓
 Hero List
    ↓
-Story Screen
+Story Screen (Swipe + TTS)
    ↓
-Quiz
+Quiz Screen
    ↓
 Completion & Progress Tracking
 ```
 
 ---
 
-## 🎨 UI Highlights
+## 📦 Data Handling
 
-* Modern **Material 3 UI**
-* Gradient headers and soft color palette
-* Kindle-style reading experience
-* Card-based hero discovery UI
-* Child-friendly design
+All content is stored locally in:
+
+```text
+assets/heroes.json
+```
+
+Includes:
+
+* Districts
+* Heroes
+* Stories (EN + KN)
+* Quiz data
+* Location coordinates
 
 ---
 
-## 📦 Data Format
+## 🎨 UI Highlights
 
-Data is stored locally in JSON:
+* Material 3 design
+* Gradient headers
+* Kindle-style reading screen
+* Card-based hero UI
+* Child-friendly visuals
+* Responsive layouts
 
-```json
-{
-  "districts": [
-    {
-      "name_en": "Bengaluru Urban",
-      "heroes": [
-        {
-          "id": "kempe_gowda",
-          "name_en": "Kempe Gowda",
-          "story": {
-            "en": ["Page 1", "Page 2"],
-            "kn": ["Page 1", "Page 2"]
-          },
-          "quiz": [...],
-          "location": {...}
-        }
-      ]
-    }
-  ]
-}
-```
+---
+
+## 🧠 Key Concepts Implemented
+
+* MVVM Architecture
+* State Management in Compose
+* Dynamic Navigation with arguments
+* WebView + JavaScript bridge
+* JSON parsing & local data storage
+* Text-to-Speech integration
+* UI/UX design for children
 
 ---
 
 ## 🎯 Impact
 
-* 🇮🇳 Promotes **local heritage awareness**
-* 📚 Encourages **reading habits**
-* 🧠 Builds **value-based learning**
-* 🌍 Connects children to **regional history**
+* 🇮🇳 Promotes local heritage awareness
+* 📚 Encourages reading habits
+* 🧠 Supports value-based learning
+* 🌍 Builds connection with regional history
 
 ---
 
 ## 🔮 Future Enhancements
 
-* 🎧 Background music & narration improvements
 * 🌙 Dark mode (night reading)
-* 🏅 Badge & achievements system
+* 🎧 Background audio narration
+* 🏅 Advanced badge system
 * ☁️ Cloud sync for progress
 * 📊 Analytics dashboard
 
@@ -167,7 +202,8 @@ Data is stored locally in JSON:
 ## 👨‍💻 Author
 
 **Nikhil N Achar**
-AI & ML Student
+USN: 1DA22AI021
+AI & ML Department
 Dr. Ambedkar Institute of Technology
 
 ---
@@ -175,13 +211,17 @@ Dr. Ambedkar Institute of Technology
 ## 🙏 Acknowledgements
 
 * MindMatrix (Internship Organization)
-* Faculty Guides & Mentors
-* OpenAI / GenAI tools for content generation
+* Faculty Mentors & Guides
+* GenAI tools for content generation
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a ⭐ on GitHub and share your feedback!
+If you like this project:
+
+⭐ Star the repository
+📢 Share feedback
+🚀 Suggest improvements
 
 ---
