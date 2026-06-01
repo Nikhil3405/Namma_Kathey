@@ -9,7 +9,7 @@
               "id": "hero_chennamma",
               "name_en": "Kittur Rani Chennamma",
               "name_kn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
-              "image": "chennamma",
+              "image": "kittur",
               "short_desc_en": "The brave queen of Kittur who was one of the first to fight the British for freedom.",
               "short_desc_kn": "ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಮೊದಲ ವೀರ ರಾಣಿ ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ.",
               "story": {
@@ -77,7 +77,7 @@
               "id": "hero_rayanna",
               "name_en": "Sangolli Rayanna",
               "name_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
-              "image": "rayanna",
+              "image": "sangolli",
               "short_desc_en": "The fearless warrior of Kittur who fought like a tiger to win back his queen's kingdom.",
               "short_desc_kn": "ತನ್ನ ರಾಣಿಯ ರಾಜ್ಯವನ್ನು ಮರಳಿ ಪಡೆಯಲು ಹುಲಿಯಂತೆ ಹೋರಾಡಿದ ಕಿತ್ತೂರಿನ নির্ভಯ ಸೇನಾನಿ.",
               "story": {
@@ -299,7 +299,7 @@
               "id": "hero_madakarinayaka",
               "name_en": "Raja Veera Madakari Nayaka",
               "name_kn": "ರಾಜ ವೀರ ಮದಕರಿ ನಾಯಕ",
-              "image": "madakari_nayaka",
+              "image": "nayaka",
               "short_desc_en": "The fearless warrior king who fiercely protected the invincible stone fort of Chitradurga.",
               "short_desc_kn": "ಚಿತ್ರದುರ್ಗದ ಕಲ್ಲಿನ ಕೋಟೆಯನ್ನು ಪ್ರಾಣದ ಹಂಗು ತೊರೆದು ರಕ್ಷಿಸಿದ ಅಪ್ರತಿಮ ವೀರ ರಾಜ.",
               "story": {
@@ -365,9 +365,9 @@
             },
             {
               "id": "hero_onakeobavva",
-              "name_en": "Onake Obavva",
+              "name_en": "obavva",
               "name_kn": "ಒನಕೆ ಓಬವ್ವ",
-              "image": "onake_obavva",
+              "image": "obavva",
               "short_desc_en": "An ordinary woman who showed extraordinary courage to save the fort using a wooden pestle.",
               "short_desc_kn": "ಒಂದು ಮರದ ಒನಕೆಯಿಂದ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿ ಅಸಾಧಾರಣ ಶೌರ್ಯ ಮೆರೆದ ಸಾಮಾನ್ಯ ಮಹಿಳೆ.",
               "story": {
@@ -510,7 +510,7 @@
           "id": "hero_keladichennamma",
           "name_en": "Keladi Chennamma",
           "name_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ",
-          "image": "keladi_chennamma",
+          "image": "keladi",
           "short_desc_en": "The brave queen of Keladi who fearlessly protected her kingdom from a mighty Mughal emperor.",
           "short_desc_kn": "ತನ್ನ ರಾಜ್ಯವನ್ನು ಪ್ರಬಲ ಮೊಘಲ್ ಸಾಮ್ರಾಟನಿಂದ ನಿರ್ಭಯವಾಗಿ ರಕ್ಷಿಸಿದ ಕೆಳದಿಯ ವೀರ ರಾಣಿ.",
           "story": {
@@ -585,7 +585,7 @@
           "id": "hero_nalwadi",
           "name_en": "Nalwadi Krishnaraja Wadiyar",
           "name_kn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್",
-          "image": "nalwadi_krishnaraja",
+          "image": "nalwadi",
           "short_desc_en": "The beloved philosopher king who transformed Mysuru into a highly modern and prosperous state.",
           "short_desc_kn": "ಮೈಸೂರನ್ನು ಆಧುನಿಕ ಮತ್ತು ಸಮೃದ್ಧ ರಾಜ್ಯವಾಗಿ ಪರಿವರ್ತಿಸಿದ ಪ್ರೀತಿಯ ಮತ್ತು ಆದರ್ಶ ರಾಜ.",
           "story": {
@@ -653,7 +653,7 @@
           "id": "hero_rknarayan",
           "name_en": "R. K. Narayan",
           "name_kn": "ಆರ್. ಕೆ. ನಾರಾಯಣ್",
-          "image": "rk_narayan",
+          "image": "narayan",
           "short_desc_en": "The magical storyteller who created the beautiful fictional town of Malgudi and touched millions of hearts.",
           "short_desc_kn": "'ಮಾಲ್ಗುಡಿ' ಎಂಬ ಕಾಲ್ಪನಿಕ ಊರನ್ನು ಸೃಷ್ಟಿಸಿ ಜಗತ್ತಿನಾದ್ಯಂತ ಕೋಟ್ಯಂತರ ಹೃದಯಗಳನ್ನು ಗೆದ್ದ ಮಾಂತ್ರಿಕ ಕಥೆಗಾರ.",
           "story": {
@@ -728,7 +728,7 @@
               "id": "hero_jakanachari",
               "name_en": "Amarashilpi Jakanachari",
               "name_kn": "ಅಮರಶಿಲ್ಪಿ ಜಕಣಾಚಾರಿ",
-              "image": "jakanachari",
+              "image": "amara",
               "short_desc_en": "The legendary master sculptor whose magical hands carved the most beautiful temples in Karnataka.",
               "short_desc_kn": "ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಸುಂದರವಾದ ದೇವಾಲಯಗಳನ್ನು ಕೆತ್ತಿದ ಅದ್ಭುತ ಮತ್ತು ಮಾಂತ್ರಿಕ ಶಿಲ್ಪಿ.",
               "story": {
@@ -796,7 +796,7 @@
               "id": "hero_shivakumara_swamiji",
               "name_en": "Dr. Shivakumara Swamiji",
               "name_kn": "ಡಾ. ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ",
-              "image": "shivakumara_swamiji",
+              "image": "shivkumar",
               "short_desc_en": "The loving saint who spent his 111-year life providing free food, education, and shelter to millions of poor children.",
               "short_desc_kn": "ಲಕ್ಷಾಂತರ ಬಡ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಅನ್ನ, ಅಕ್ಷರ ಮತ್ತು ಆಶ್ರಯ ನೀಡಿ ೧೧೧ ವರ್ಷಗಳ ಕಾಲ ಬಾಳಿದ ಕರುಣಾಮಯಿ ಸಂತ.",
               "story": {
@@ -872,7 +872,7 @@
               "id": "hero_abbakka",
               "name_en": "Rani Abbakka Chowta",
               "name_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ",
-              "image": "rani_abbakka",
+              "image": "abbakka",
               "short_desc_en": "The fearless Queen of Ullal who bravely fought the mighty Portuguese to protect her motherland.",
               "short_desc_kn": "ತನ್ನ ತಾಯ್ನಾಡನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಬಲ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಉಳ್ಳಾಲದ ವೀರ ರಾಣಿ.",
               "story": {
@@ -940,7 +940,7 @@
               "id": "hero_kudmul_ranga_rao",
               "name_en": "Kudmul Ranga Rao",
               "name_kn": "ಕುದ್ಮುಲ್ ರಂಗರಾವ್",
-              "image": "kudmul_ranga_rao",
+              "image": "kudmul",
               "short_desc_en": "A great social reformer who fought for the rights and education of the poorest and marginalized people in Mangaluru.",
               "short_desc_kn": "ಮಂಗಳೂರಿನ ಬಡ ಮತ್ತು ದೀನದಲಿತರ ಹಕ್ಕುಗಳು ಮತ್ತು ಶಿಕ್ಷಣಕ್ಕಾಗಿ ಹೋರಾಡಿದ ಶ್ರೇಷ್ಠ ಸಮಾಜ ಸುಧಾರಕ.",
               "story": {
@@ -1016,7 +1016,7 @@
               "id": "hero_bendre",
               "name_en": "Da. Ra. Bendre",
               "name_kn": "ದ. ರಾ. ಬೇಂದ್ರೆ",
-              "image": "bendre",
+              "image": "dara",
               "short_desc_en": "The magical 'Varakavi' (Gifted Poet) who found poetry in the simple, everyday lives of ordinary people.",
               "short_desc_kn": "ಸಾಮಾನ್ಯ ಜನರ ಸರಳ ಜೀವನದಲ್ಲಿ ಕಾವ್ಯವನ್ನು ಕಂಡುಕೊಂಡ ಕನ್ನಡದ ಮಾಂತ್ರಿಕ 'ವರಕವಿ'.",
               "story": {
@@ -1084,7 +1084,7 @@
               "id": "hero_gangubai",
               "name_en": "Gangubai Hangal",
               "name_kn": "ಗಂಗೂಬಾಯಿ ಹಾನಗಲ್",
-              "image": "gangubai",
+              "image": "gangubhai",
               "short_desc_en": "The legendary classical singer who fought incredible poverty and societal prejudice to become a musical icon.",
               "short_desc_kn": "ತೀವ್ರ ಬಡತನ ಮತ್ತು ಸಾಮಾಜಿಕ ಕಳಂಕದ ವಿರುದ್ಧ ಹೋರಾಡಿ ಸಂಗೀತ ಲೋಕದ ದಂತಕಥೆಯಾದ ಅಪ್ರತಿಮ ಗಾಯಕಿ.",
               "story": {
@@ -1160,7 +1160,7 @@
               "id": "hero_cariappa",
               "name_en": "Field Marshal K. M. Cariappa",
               "name_kn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ. ಎಂ. ಕಾರ್ಯಪ್ಪ",
-              "image": "cariappa",
+              "image": "field",
               "short_desc_en": "The disciplined and fearless first Indian Commander-in-Chief of the Indian Army.",
               "short_desc_kn": "ಭಾರತೀಯ ಸೇನೆಯ ಮೊದಲ ಮಹಾದಂಡನಾಯಕ ಮತ್ತು ಅತ್ಯಂತ ಶಿಸ್ತಿನ, ನಿರ್ಭಯ ಯೋಧ.",
               "story": {
@@ -1228,7 +1228,7 @@
               "id": "hero_thimayya",
               "name_en": "General K. S. Thimayya",
               "name_kn": "ಜನರಲ್ ಕೆ. ಎಸ್. ತಿಮ್ಮಯ್ಯ",
-              "image": "general_thimayya",
+              "image": "general",
               "short_desc_en": "The brilliant and bold military tactician who famously used tanks on snowy mountains to protect Kashmir.",
               "short_desc_kn": "ಕಾಶ್ಮೀರವನ್ನು ರಕ್ಷಿಸಲು ಹಿಮಾವೃತ ಪರ್ವತಗಳ ಮೇಲೆ ಟ್ಯಾಂಕ್‌ಗಳನ್ನು ಬಳಸಿದ ಅದ್ಭುತ ಮತ್ತು ದಿಟ್ಟ ಸೇನಾ ತಂತ್ರಜ್ಞ.",
               "story": {
@@ -1304,7 +1304,7 @@
               "id": "hero_kanakadasa",
               "name_en": "Kanaka Dasa",
               "name_kn": "ಕನಕದಾಸ",
-              "image": "kanakadasa",
+              "image": "kanaka",
               "short_desc_en": "The legendary saint and poet who proved that God only sees pure devotion, not caste or wealth.",
               "short_desc_kn": "ದೇವರು ಭಕ್ತಿಯನ್ನು ಮಾತ್ರ ನೋಡುತ್ತಾನೆ, ಜಾತಿ ಅಥವಾ ಸಂಪತ್ತನ್ನಲ್ಲ ಎಂದು ಜಗತ್ತಿಗೆ ಸಾರಿದ ಶ್ರೇಷ್ಠ ಸಂತ ಹಾಗೂ ಕವಿ.",
               "story": {
@@ -1372,7 +1372,7 @@
               "id": "hero_shishunala",
               "name_en": "Santa Shishunala Sharif",
               "name_kn": "ಸಂತ ಶಿಶುನಾಳ ಶರೀಫ",
-              "image": "shishunala_sharif",
+              "image": "santa",
               "short_desc_en": "The great mystic poet who brought Hindus and Muslims together with his deeply philosophical and magical songs.",
               "short_desc_kn": "ತಮ್ಮ ತತ್ವಪದಗಳ ಮೂಲಕ ಹಿಂದೂ ಮತ್ತು ಮುಸ್ಲಿಮರನ್ನು ಒಗ್ಗೂಡಿಸಿದ ಶ್ರೇಷ್ಠ ದಾರ್ಶನಿಕ ಸಂತ ಮತ್ತು ಕವಿ.",
               "story": {
@@ -1448,7 +1448,7 @@
               "id": "hero_krishnadevaraya",
               "name_en": "Sri Krishnadevaraya",
               "name_kn": "ಶ್ರೀ ಕೃಷ್ಣದೇವರಾಯ",
-              "image": "krishnadevaraya",
+              "image": "krishna",
               "short_desc_en": "The greatest emperor of the Vijayanagara Empire who transformed South India into a golden land of wealth and art.",
               "short_desc_kn": "ದಕ್ಷಿಣ ಭಾರತವನ್ನು ಸಂಪತ್ತು ಮತ್ತು ಕಲೆಯ ಸುವರ್ಣ ನಾಡನ್ನಾಗಿ ಮಾಡಿದ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ಚಕ್ರವರ್ತಿ.",
               "story": {
@@ -1516,7 +1516,7 @@
               "id": "hero_purandara_dasa",
               "name_en": "Saint Purandara Dasa",
               "name_kn": "ಸಂತ ಪುರಂದರದಾಸ",
-              "image": "purandara_dasa",
+              "image": "saint",
               "short_desc_en": "A fiercely greedy merchant who gave away all his gold to become the father of Carnatic classical music.",
               "short_desc_kn": "ತನ್ನ ಅಗಾಧ ಸಂಪತ್ತನ್ನು ತ್ಯಜಿಸಿ, ಭಕ್ತಿಯ ಮೂಲಕ ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತದ ಪಿತಾಮಹರಾದ ಶ್ರೇಷ್ಠ ಸಂತ.",
               "story": {
@@ -1592,7 +1592,7 @@
               "id": "hero_male_mahadeshwara",
               "name_en": "Male Mahadeshwara",
               "name_kn": "ಮಲೆ ಮಹದೇಶ್ವರ",
-              "image": "male_mahadeshwara",
+              "image": "male",
               "short_desc_en": "The legendary boy-saint who performed miracles, rode a tiger, and protected the forest tribes.",
               "short_desc_kn": "ಪವಾಡಗಳನ್ನು ಮಾಡಿ, ಹುಲಿಯೇರಿ ಬಂದು ಕಾಡು ಜನರನ್ನು ರಕ್ಷಿಸಿದ ಪುರಾಣ ಪ್ರಸಿದ್ಧ ಬಾಲ-ಸಂತ.",
               "story": {
@@ -1660,7 +1660,7 @@
               "id": "hero_punith_rajkumar",
               "name_en": "Puneeth Rajkumar",
               "name_kn": "ಪುನೀತ್ ರಾಜ್‌ಕುಮಾರ್",
-              "image": "puneeth_rajkumar",
+              "image": "puneeth",
               "short_desc_en": "The beloved 'Appu' who won millions of hearts with his acting, dancing, and incredible social service.",
               "short_desc_kn": "ತಮ್ಮ ನಟನೆ, ನೃತ್ಯ ಮತ್ತು ಅಪಾರ ಸಮಾಜ ಸೇವೆಯಿಂದ ಕೋಟ್ಯಂತರ ಹೃದಯಗಳನ್ನು ಗೆದ್ದ ಕರುನಾಡಿನ ಪ್ರೀತಿಯ 'ಅಪ್ಪು'.",
               "story": {
@@ -1736,7 +1736,7 @@
               "id": "hero_basavanna",
               "name_en": "Lord Basavanna",
               "name_kn": "ಜಗಜ್ಯೋತಿ ಬಸವಣ್ಣ",
-              "image": "basavanna",
+              "image": "basavana",
               "short_desc_en": "The great philosopher and social reformer who taught the world that work is heaven and everyone is equal.",
               "short_desc_kn": "ಕಾಯಕವೇ ಕೈಲಾಸ ಮತ್ತು ಸಮಾನತೆಯ ಸಂದೇಶವನ್ನು ಜಗತ್ತಿಗೆ ಸಾರಿದ ಶ್ರೇಷ್ಠ ದಾರ್ಶನಿಕ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ.",
               "story": {
@@ -1804,7 +1804,7 @@
               "id": "hero_pulakeshin",
               "name_en": "Emperor Pulakeshin II",
               "name_kn": "ಇಮ್ಮಡಿ ಪುಲಕೇಶಿ",
-              "image": "pulakeshin",
+              "image": "pulakeshi",
               "short_desc_en": "The roaring lion of the Chalukya dynasty who defeated the mighty northern emperor and built the golden era of Badami.",
               "short_desc_kn": "ಉತ್ತರ ಭಾರತದ ಬಲಶಾಲಿ ಚಕ್ರವರ್ತಿಯನ್ನು ಸೋಲಿಸಿ ಬಾದಾಮಿಯ ಸುವರ್ಣಯುಗವನ್ನು ನಿರ್ಮಿಸಿದ ಚಾಲುಕ್ಯ ವಂಶದ ಸಿಂಹ.",
               "story": {
@@ -1879,7 +1879,7 @@
               "id": "hero_sharanabasaveshwara",
               "name_en": "Sri Sharanabasaveshwara",
               "name_kn": "ಶ್ರೀ ಶರಣಬಸವೇಶ್ವರ",
-              "image": "sharanabasaveshwara",
+              "image": "sharana1",
               "short_desc_en": "The compassionate saint of Kalaburagi who taught that feeding the hungry is the greatest service to God.",
               "short_desc_kn": "ದಾಸೋಹವೇ (ಅನ್ನದಾನ) ದೇವರ ಅತಿ ದೊಡ್ಡ ಸೇವೆ ಎಂದು ಜಗತ್ತಿಗೆ ಸಾರಿದ ಕಲಬುರಗಿಯ ಕರುಣಾಮಯಿ ಸಂತ.",
               "story": {
@@ -1947,7 +1947,7 @@
               "id": "hero_banda_nawaz",
               "name_en": "Khwaja Banda Nawaz",
               "name_kn": "ಖ್ವಾಜಾ ಬಂದಾ ನವಾಜ್",
-              "image": "banda_nawaz",
+              "image": "banda",
               "short_desc_en": "The great Sufi saint who spread the beautiful message of universal love, peace, and brotherhood.",
               "short_desc_kn": "ವಿಶ್ವಪ್ರೇಮ, ಶಾಂತಿ ಮತ್ತು ಭ್ರಾತೃತ್ವದ ಸುಂದರ ಸಂದೇಶವನ್ನು ಸಾರಿದ ಶ್ರೇಷ್ಠ ಸೂಫಿ ಸಂತ.",
               "story": {
@@ -2023,7 +2023,7 @@
               "id": "hero_sarvajna",
               "name_en": "Kavi Sarvajna",
               "name_kn": "ಕವಿ ಸರ್ವಜ್ಞ",
-              "image": "sarvajna",
+              "image": "kavi",
               "short_desc_en": "The wandering poet whose three-line 'Tripadis' carried the ultimate wisdom of life for the common people.",
               "short_desc_kn": "ತಮ್ಮ ಮೂರು-ಸಾಲುಗಳ 'ತ್ರಿಪದಿ'ಗಳ ಮೂಲಕ ಜನಸಾಮಾನ್ಯರಿಗೆ ಜೀವನದ ಪರಮ ಸತ್ಯವನ್ನು ತಿಳಿಸಿದ ಅಲೆಮಾರಿ ಕವಿ.",
               "story": {
@@ -2091,7 +2091,7 @@
               "id": "hero_madakarinayaka_davanagere",
               "name_en": "Bichugatti Bharamanna Nayaka",
               "name_kn": "ಬಿಚ್ಚುಗತ್ತಿ ಭರಮಣ್ಣ ನಾಯಕ",
-              "image": "bharamanna_nayaka",
+              "image": "bichu",
               "short_desc_en": "The brave Palegara (chieftain) who fearlessly protected his people and built magnificent tanks and temples.",
               "short_desc_kn": "ತನ್ನ ಜನರನ್ನು ನಿರ್ಭಯವಾಗಿ ರಕ್ಷಿಸಿ, ಭವ್ಯವಾದ ಕೆರೆಗಳು ಮತ್ತು ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿದ ಶೂರ ಪಾಳೆಯಗಾರ.",
               "story": {
@@ -2167,7 +2167,7 @@
               "id": "hero_vishnuvardhana",
               "name_en": "King Vishnuvardhana",
               "name_kn": "ರಾಜ ವಿಷ್ಣುವರ್ಧನ",
-              "image": "vishnuvardhana",
+              "image": "vishnu",
               "short_desc_en": "The glorious Hoysala king who built magnificent stone temples and expanded his empire.",
               "short_desc_kn": "ಭವ್ಯವಾದ ಕಲ್ಲಿನ ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿ ಸಾಮ್ರಾಜ್ಯವನ್ನು ವಿಸ್ತರಿಸಿದ ಪ್ರಸಿದ್ಧ ಹೊಯ್ಸಳ ರಾಜ.",
               "story": {
@@ -2235,7 +2235,7 @@
               "id": "hero_shantala_devi",
               "name_en": "Queen Shantala Devi",
               "name_kn": "ರಾಣಿ ಶಾಂತಲಾ ದೇವಿ",
-              "image": "shantala_devi",
+              "image": "shantala",
               "short_desc_en": "The legendary dancing queen of the Hoysala Empire who brought life to stones through her exquisite art.",
               "short_desc_kn": "ತನ್ನ ಅದ್ಭುತ ಕಲೆಯ ಮೂಲಕ ಕಲ್ಲುಗಳಿಗೆ ಜೀವ ತುಂಬಿದ ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ಪೌರಾಣಿಕ ನಾಟ್ಯ ರಾಣಿ.",
               "story": {
@@ -2311,7 +2311,7 @@
               "id": "hero_chennabhairadevi",
               "name_en": "Rani Chennabhairadevi",
               "name_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ",
-              "image": "chennabhairadevi",
+              "image": "chenna",
               "short_desc_en": "The fierce 'Pepper Queen' of Gerusoppa who ruled for 54 years and defeated the greedy Portuguese.",
               "short_desc_kn": "೫೪ ವರ್ಷಗಳ ಕಾಲ ಆಳ್ವಿಕೆ ನಡೆಸಿ ಪೋರ್ಚುಗೀಸರನ್ನು ಸೋಲಿಸಿದ ಗೇರುಸೊಪ್ಪೆಯ ವೀರ 'ಕಾಳುಮೆಣಸಿನ ರಾಣಿ'.",
               "story": {
@@ -2379,7 +2379,7 @@
               "id": "hero_mayurasharma",
               "name_en": "Kadamba Mayurasharma",
               "name_kn": "ಕದಂಬ ಮಯೂರಶರ್ಮ",
-              "image": "mayurasharma",
+              "image": "kadamba",
               "short_desc_en": "A humble, peace-loving scholar who picked up a sword to build the very first independent Kannada empire.",
               "short_desc_kn": "ತನ್ನ ನಾಡಿನ ಸ್ವಾಭಿಮಾನಕ್ಕಾಗಿ ಕತ್ತಿ ಹಿಡಿದು, ಮೊಟ್ಟಮೊದಲ ಸ್ವತಂತ್ರ ಕನ್ನಡ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಕಟ್ಟಿದ ವಿದ್ವಾಂಸ.",
               "story": {
@@ -2455,7 +2455,7 @@
               "id": "hero_shivaram_karanth",
               "name_en": "Dr. Kota Shivaram Karanth",
               "name_kn": "ಡಾ. ಕೋಟ ಶಿವರಾಮ ಕಾರಂತ",
-              "image": "shivaram_karanth",
+              "image": "kota",
               "short_desc_en": "The legendary 'Walking Encyclopedia' who explored literature, nature, and art with endless curiosity.",
               "short_desc_kn": "ಸಾಹಿತ್ಯ, ಪರಿಸರ ಮತ್ತು ಕಲೆಯ ಜಗತ್ತನ್ನು ಅಪಾರ ಕುತೂಹಲದಿಂದ ಅನ್ವೇಷಿಸಿದ 'ನಡೆದಾಡುವ ವಿಶ್ವಕೋಶ'.",
               "story": {
@@ -2523,7 +2523,7 @@
               "id": "hero_tma_pai",
               "name_en": "Dr. T. M. A. Pai",
               "name_kn": "ಡಾ. ಟಿ. ಎಂ. ಎ. ಪೈ",
-              "image": "tma_pai",
+              "image": "tma",
               "short_desc_en": "The visionary doctor who transformed a wild, barren rocky hill into the world-famous educational city of Manipal.",
               "short_desc_kn": "ಕಾಡು ಪ್ರಾಣಿಗಳಿದ್ದ ಕಲ್ಲಿನ ಗುಡ್ಡವನ್ನು ಜಗತ್ಪ್ರಸಿದ್ಧ ಶೈಕ್ಷಣಿಕ ನಗರ 'ಮಣಿಪಾಲ'ವನ್ನಾಗಿ ಬದಲಾಯಿಸಿದ ದಾರ್ಶನಿಕ ವೈದ್ಯ.",
               "story": {
@@ -2599,7 +2599,7 @@
               "id": "hero_ramananda_tirtha",
               "name_en": "Swami Ramananda Tirtha",
               "name_kn": "ಸ್ವಾಮಿ ರಮಾನಂದ ತೀರ್ಥ",
-              "image": "ramananda_tirtha",
+              "image": "swami",
               "short_desc_en": "The fearless monk who bravely led the fierce struggle to free the Hyderabad-Karnataka region from the cruel Nizam.",
               "short_desc_kn": "ಕ್ರೂರ ನಿಜಾಮನಿಂದ ಹೈದರಾಬಾದ್-ಕರ್ನಾಟಕವನ್ನು ಸ್ವತಂತ್ರಗೊಳಿಸಲು ಹೋರಾಡಿದ ನಿರ್ಭೀತ ಸನ್ಯಾಸಿ.",
               "story": {
@@ -2675,7 +2675,7 @@
               "id": "hero_kv_shankaregowda",
               "name_en": "K. V. Shankaregowda",
               "name_kn": "ಕೆ. ವಿ. ಶಂಕರೇಗೌಡ",
-              "image": "kv_shankaregowda",
+              "image": "kv",
               "short_desc_en": "The beloved 'Nithya Sachiva' who dedicated his life to bringing the light of education to the farmers of Mandya.",
               "short_desc_kn": "ಮಂಡ್ಯದ ರೈತರ ಮಕ್ಕಳಿಗೆ ಶಿಕ್ಷಣದ ಬೆಳಕನ್ನು ತರಲು ತಮ್ಮ ಇಡೀ ಜೀವನವನ್ನೇ ಮುಡಿಪಾಗಿಟ್ಟ ಪ್ರೀತಿಯ 'ನಿತ್ಯ ಸಚಿವ'.",
               "story": {
@@ -2751,7 +2751,7 @@
               "id": "guru_nanak",
               "name_en": "Guru Nanak",
               "name_kn": "ಗುರು ನಾನಕ್",
-              "image": "guru_nanak",
+              "image": "guru",
               "short_desc_en": "The great spiritual teacher who spread the message of kindness, equality, and truth during his visit to Bidar.",
               "short_desc_kn": "ಬೀದರಿಗೆ ಭೇಟಿ ನೀಡಿ ದಯೆ, ಸಮಾನತೆ ಮತ್ತು ಸತ್ಯದ ಸಂದೇಶವನ್ನು ಹರಡಿದ ಮಹಾನ್ ಗುರು.",
               "story": {
@@ -2818,7 +2818,7 @@
               "id": "bahmani_sultans",
               "name_en": "Bahmani Sultans",
               "name_kn": "ಬಹಮನಿ ಸುಲ್ತಾನರು",
-              "image": "bidar_fort",
+              "image": "bahmani",
               "short_desc_en": "The rulers who made Bidar a center of culture, learning, and beautiful architecture.",
               "short_desc_kn": "ಬೀದರವನ್ನು ಸಂಸ್ಕೃತಿ ಮತ್ತು ಶಿಕ್ಷಣದ ಕೇಂದ್ರವಾಗಿಸಿದ ರಾಜರು.",
               "story": {
@@ -2893,7 +2893,7 @@
               "id": "hero_ibrahim_adil_shah",
               "name_en": "Ibrahim Adil Shah II",
               "name_kn": "ಎರಡನೇ ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಶಾ",
-              "image": "ibrahim_adil_shah",
+              "image": "adil",
               "short_desc_en": "The peace-loving king who united Hindus and Muslims through the magical power of music and art.",
               "short_desc_kn": "ಸಂಗೀತ ಮತ್ತು ಕಲೆಯ ಮಾಂತ್ರಿಕ ಶಕ್ತಿಯ ಮೂಲಕ ಹಿಂದೂ ಮತ್ತು ಮುಸ್ಲಿಮರನ್ನು ಒಗ್ಗೂಡಿಸಿದ ಶಾಂತಿಪ್ರಿಯ ರಾಜ.",
               "story": {
@@ -2961,7 +2961,7 @@
               "id": "hero_halakatti",
               "name_en": "Dr. P. G. Halakatti",
               "name_kn": "ಡಾ. ಫ. ಗು. ಹಳಕಟ್ಟಿ",
-              "image": "pg_halakatti",
+              "image": "pg",
               "short_desc_en": "The legendary 'Vachana Pitamaha' who dedicated his entire life to finding and saving the lost wisdom of the Sharanas.",
               "short_desc_kn": "ಶರಣರ ಕಳೆದುಹೋದ ವಚನಗಳನ್ನು ಹುಡುಕಿ ಉಳಿಸಲು ತಮ್ಮ ಇಡೀ ಜೀವನವನ್ನೇ ಮುಡಿಪಾಗಿಟ್ಟ ಶ್ರೇಷ್ಠ 'ವಚನ ಪಿತಾಮಹ'.",
               "story": {
@@ -3037,7 +3037,7 @@
               "id": "hero_baba_budan",
               "name_en": "Sufi Baba Budan",
               "name_kn": "ಸೂಫಿ ಬಾಬಾ ಬುಡನ್",
-              "image": "baba_budan",
+              "image": "budan",
               "short_desc_en": "The wandering saint who brought the magical coffee seeds from Arabia to the hills of Karnataka.",
               "short_desc_kn": "ಅರೇಬಿಯಾದಿಂದ ಕಾಫಿ ಬೀಜಗಳನ್ನು ತಂದು ಕರ್ನಾಟಕದ ಮಣ್ಣಿನಲ್ಲಿ ಹಸಿರು ಕ್ರಾಂತಿ ಮಾಡಿದ ಸೂಫಿ ಸಂತ.",
               "story": {
@@ -3113,7 +3113,7 @@
               "id": "hero_kumaravyasa",
               "name_en": "Kumara Vyasa",
               "name_kn": "ಕುಮಾರವ್ಯಾಸ",
-              "image": "kumaravyasa",
+              "image": "kumara",
               "short_desc_en": "The magical poet who brought the great epic Mahabharata into the homes of ordinary people in simple Kannada.",
               "short_desc_kn": "ಮಹಾಭಾರತದಂತಹ ಶ್ರೇಷ್ಠ ಮಹಾಕಾವ್ಯವನ್ನು ಸರಳ ಕನ್ನಡದಲ್ಲಿ ಜನಸಾಮಾನ್ಯರ ಮನೆ-ಮನಗಳಿಗೆ ತಲುಪಿಸಿದ ಮಾಂತ್ರಿಕ ಕವಿ.",
               "story": {
@@ -3181,7 +3181,7 @@
               "id": "hero_panchakshari_gawai",
               "name_en": "Ganayogi Panchakshari Gawai",
               "name_kn": "ಗಾನಯೋಗಿ ಪಂಚಾಕ್ಷರಿ ಗವಾಯಿ",
-              "image": "panchakshari_gawai",
+              "image": "gana",
               "short_desc_en": "The blind saint of music who provided free shelter and music education to thousands of disabled and poor children.",
               "short_desc_kn": "ಅಂಧ, ಅನಾಥ ಮತ್ತು ಬಡ ಮಕ್ಕಳಿಗೆ ಆಶ್ರಯ ಹಾಗೂ ಉಚಿತ ಸಂಗೀತ ಶಿಕ್ಷಣ ನೀಡಿದ ಅಂಧ ಸಂಗೀತ ಸಂತ.",
               "story": {
@@ -3257,7 +3257,7 @@
               "id": "hero_chikkaballapura_bhoganandishwara",
               "name_en": "King Rajendra Chola",
               "name_kn": "ರಾಜೇಂದ್ರ ಚೋಳ",
-              "image": "rajendra_chola",
+              "image": "chola",
               "short_desc_en": "The mighty Chola emperor who expanded his kingdom across the seas and contributed to the grand Bhoga Nandishwara temple.",
               "short_desc_kn": "ಸಾಗರದಾಚೆಗೂ ಸಾಮ್ರಾಜ್ಯವನ್ನು ವಿಸ್ತರಿಸಿ, ಭವ್ಯವಾದ ಭೋಗ ನಂದೀಶ್ವರ ದೇವಾಲಯಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿದ ಪ್ರಬಲ ಚೋಳ ಚಕ್ರವರ್ತಿ.",
               "story": {
@@ -3333,7 +3333,7 @@
               "id": "hero_channareddy_patil",
               "name_en": "Kollur Mallappa",
               "name_kn": "ಕೊಲ್ಲೂರು ಮಲ್ಲಪ್ಪ",
-              "image": "kollur_mallappa",
+              "image": "kollur",
               "short_desc_en": "The brave freedom fighter and humble leader who worked selflessly for the farmers and the poor of the Hyderabad-Karnataka region.",
               "short_desc_kn": "ಹೈದರಾಬಾದ್-ಕರ್ನಾಟಕ ಭಾಗದ ರೈತರು ಮತ್ತು ಬಡವರಿಗಾಗಿ ನಿಸ್ವಾರ್ಥವಾಗಿ ಶ್ರಮಿಸಿದ ವೀರ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ ಹಾಗೂ ಸರಳ ನಾಯಕ.",
               "story": {
@@ -3409,7 +3409,7 @@
               "id": "hero_mundargi_bhimarao",
               "name_en": "Mundargi Bhimarao",
               "name_kn": "ಮುಂಡರಗಿ ಭೀಮರಾವ್",
-              "image": "mundargi_bhimarao",
+              "image": "mundargi",
               "short_desc_en": "The roaring lion of 1858 who gave up a comfortable government job to fight a fierce war against the British at the Koppal Fort.",
               "short_desc_kn": "ತಮ್ಮ ಸರ್ಕಾರಿ ಉದ್ಯೋಗವನ್ನು ತ್ಯಜಿಸಿ ಕೊಪ್ಪಳ ಕೋಟೆಯಲ್ಲಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ವೀರಾವೇಶದಿಂದ ಹೋರಾಡಿದ ೧೮೫೮ರ ಗರ್ಜಿಸುವ ಸಿಂಹ.",
               "story": {
@@ -3485,7 +3485,7 @@
               "id": "hero_kumara_rama",
               "name_en": "Gandugali Kumara Rama",
               "name_kn": "ಗಂಡುಗಲಿ ಕುಮಾರ ರಾಮ",
-              "image": "kumara_rama",
+              "image": "gandugali",
               "short_desc_en": "The fearless prince of Kummatadurga whose bravery and moral character inspired the foundation of the Vijayanagara Empire.",
               "short_desc_kn": "ತಮ್ಮ ಶೌರ್ಯ ಮತ್ತು ಸಚ್ಚಾರಿತ್ರ್ಯದ ಮೂಲಕ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಸ್ಥಾಪನೆಗೆ ಸ್ಫೂರ್ತಿಯಾದ ಕುಮ್ಮಟದುರ್ಗದ ನಿರ್ಭೀತ ರಾಜಕುಮಾರ.",
               "story": {
@@ -3553,7 +3553,7 @@
               "id": "hero_bellary_raghava",
               "name_en": "Bellary Raghava",
               "name_kn": "ಬಳ್ಳಾರಿ ರಾಘವ",
-              "image": "bellary_raghava",
+              "image": "raghava",
               "short_desc_en": "The legendary theatre artist who brought immense respect to the stage and mesmerized audiences across the nation.",
               "short_desc_kn": "ರಂಗಭೂಮಿಗೆ ಅಪಾರ ಗೌರವ ತಂದು, ರಾಷ್ಟ್ರದಾದ್ಯಂತ ಪ್ರೇಕ್ಷಕರನ್ನು ಮಂತ್ರಮುಗ್ಧರನ್ನಾಗಿಸಿದ ಶ್ರೇಷ್ಠ ರಂಗಭೂಮಿ ಕಲಾವಿದ.",
               "story": {
@@ -3621,7 +3621,7 @@
               "id": "hero_tekur_subramanyam",
               "name_en": "Tekur Subramanyam",
               "name_kn": "ಟೇಕೂರು ಸುಬ್ರಹ್ಮಣ್ಯಂ",
-              "image": "tekur_subramanyam",
+              "image": "tekur",
               "short_desc_en": "The brave freedom fighter and true Gandhian who led the independence movement in the Bellary region.",
               "short_desc_kn": "ಬಳ್ಳಾರಿ ಭಾಗದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿಯನ್ನು ಮುನ್ನಡೆಸಿದ ವೀರ ಹೋರಾಟಗಾರ ಮತ್ತು ಅಪ್ಪಟ ಗಾಂಧಿವಾದಿ.",
               "story": {
@@ -3697,7 +3697,7 @@
               "id": "hero_tipu_sultan",
               "name_en": "Tipu Sultan",
               "name_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
-              "image": "tipu_sultan",
+              "image": "tipu",
               "short_desc_en": "The fearless 'Tiger of Mysore' born in Devanahalli, who shocked the British with his brilliant iron-cased war rockets.",
               "short_desc_kn": "ದೇವನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿ, ತಮ್ಮ ಕಬ್ಬಿಣದ-ಕವಚದ ಯುದ್ಧ ರಾಕೆಟ್‌ಗಳ ಮೂಲಕ ಬ್ರಿಟಿಷರನ್ನು ಬೆಚ್ಚಿಬೀಳಿಸಿದ ನಿರ್ಭೀತ 'ಮೈಸೂರು ಹುಲಿ'.",
               "story": {
@@ -3760,74 +3760,6 @@
                 "lat": 13.2505,
                 "lng": 77.7121
               }
-            },
-            {
-              "id": "hero_ranabhaire_gowda",
-              "name_en": "Rana Bhaire Gowda",
-              "name_kn": "ರಣಭೈರೇಗೌಡ",
-              "image": "ranabhaire_gowda",
-              "short_desc_en": "The brave founding father of the Avati Nadu who established the glorious lineage of the Yelahanka Nadaprabhus.",
-              "short_desc_kn": "ಯಲಹಂಕ ನಾಡಪ್ರಭುಗಳ ವೈಭವಯುತ ಪರಂಪರೆಯನ್ನು ಸ್ಥಾಪಿಸಿದ ಆವತಿ ನಾಡಿನ ಶೂರ ಮೂಲಪುರುಷ.",
-              "story": {
-                "en": [
-                  "Long before the sprawling city of Bengaluru existed, the landscape was a wild, untamed wilderness. Centuries ago, a remarkably strong and brave leader named Rana Bhaire Gowda traveled from the Kanchi region along with his followers. Searching for a peaceful and fertile place to settle, they arrived at a beautiful, quiet village called Avati in the present-day Devanahalli taluk of Bengaluru Rural district.",
-                  "Rana Bhaire Gowda was a natural-born leader. When he arrived in Avati, he saw that the local villagers were living in constant fear. They were frequently attacked by wild animals from the dense forests and ruthlessly looted by cruel bandits. With his immense physical strength and sharp mind, Rana Bhaire Gowda stepped forward. He organized a local defense group, trained the young men in warfare, and personally fought off the wild beasts and thieves, restoring peace and safety to the terrified village.",
-                  "Deeply grateful for his absolute bravery and protective nature, the villagers joyously accepted him as their chieftain. Rana Bhaire Gowda established the 'Avati Nadu', setting up a fair and just administration. He focused on agriculture, building small water bodies to help farmers grow rich crops. He transformed the small, fearful settlement of Avati into a flourishing, wealthy center of trade and culture.",
-                  "What makes Rana Bhaire Gowda truly immortal in the pages of history is the incredible legacy he left behind. He was the founding father of the great Yelahanka Nadaprabhu dynasty. His sons and grandsons went on to rule vast territories, and it was from his noble and brave bloodline that the legendary Nadaprabhu Kempegowda was born, who later built the massive city of Bengaluru.",
-                  "Although Rana Bhaire Gowda did not build gigantic forts or massive concrete cities, his pure vision and fearless heart laid the unshakable foundation for everything that followed. He was a simple, honest man who believed that a ruler's first duty is to protect the weakest and ensure that every family has a safe roof and food on their plate.",
-                  "Today, the quiet village of Avati still holds the sacred memories of its first great chieftain. Rana Bhaire Gowda's extraordinary journey teaches us a beautiful, grounding lesson: You do not have to start with an empire to make history. By simply protecting your community, leading with a kind heart, and establishing justice in a small village, you can plant a mighty seed that will grow into a glorious tree, sheltering millions of people for generations to come."
-                ],
-                "kn": [
-                  "ಬೆಂಗಳೂರು ಎಂಬ ಬೃಹತ್ ನಗರವು ಅಸ್ತಿತ್ವಕ್ಕೆ ಬರುವ ಬಹಳ ಮುಂಚೆ, ಈ ಪ್ರದೇಶವು ಕಾಡು ಪ್ರಾಣಿಗಳಿಂದ ಕೂಡಿದ ವನ್ಯ ಭೂಮಿಯಾಗಿತ್ತು. ಶತಮಾನಗಳ ಹಿಂದೆ, ರಣಭೈರೇಗೌಡ ಎಂಬ ಅತ್ಯಂತ ಬಲಶಾಲಿ ಮತ್ತು ಧೈರ್ಯಶಾಲಿ ನಾಯಕ ತನ್ನ ಅನುಯಾಯಿಗಳೊಂದಿಗೆ ಕಾಂಚಿ ಪ್ರದೇಶದಿಂದ ಪ್ರಯಾಣ ಬೆಳೆಸಿದನು. ನೆಲೆಸಲು ಶಾಂತಿಯುತ ಮತ್ತು ಫಲವತ್ತಾದ ಸ್ಥಳವನ್ನು ಹುಡುಕುತ್ತಾ, ಅವರು ಇಂದಿನ ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲೆಯ ದೇವನಹಳ್ಳಿ ತಾಲೂಕಿನ 'ಆವತಿ' ಎಂಬ ಸುಂದರವಾದ, ಪ್ರಶಾಂತ ಹಳ್ಳಿಗೆ ಬಂದರು.",
-                  "ರಣಭೈರೇಗೌಡರು ಹುಟ್ಟು ನಾಯಕರಾಗಿದ್ದರು. ಅವರು ಆವತಿಗೆ ಬಂದಾಗ, ಅಲ್ಲಿನ ಸ್ಥಳೀಯ ಗ್ರಾಮಸ್ಥರು ನಿರಂತರ ಭಯದಲ್ಲಿ ಜೀವಿಸುತ್ತಿರುವುದನ್ನು ಕಂಡರು. ದಟ್ಟವಾದ ಕಾಡುಗಳಿಂದ ಬರುವ ಕಾಡು ಪ್ರಾಣಿಗಳು ಮತ್ತು ಕ್ರೂರ ಡಕಾಯಿತರು ಅವರ ಮೇಲೆ ಆಗಾಗ್ಗೆ ದಾಳಿ ಮಾಡುತ್ತಿದ್ದರು. ತಮ್ಮ ಅಪಾರ ದೈಹಿಕ ಶಕ್ತಿ ಮತ್ತು ಚೂಪಾದ ಬುದ್ಧಿಯಿಂದ, ರಣಭೈರೇಗೌಡರು ಮುಂದೆ ಬಂದರು. ಅವರು ಸ್ಥಳೀಯ ರಕ್ಷಣಾ ಗುಂಪನ್ನು ಸಂಘಟಿಸಿದರು, ಯುವಕರಿಗೆ ಯುದ್ಧ ತರಬೇತಿ ನೀಡಿದರು, ಮತ್ತು ಕಾಡು ಮೃಗಗಳು ಹಾಗೂ ಕಳ್ಳರ ವಿರುದ್ಧ ಖುದ್ದಾಗಿ ಹೋರಾಡಿ, ಭಯಭೀತರಾಗಿದ್ದ ಹಳ್ಳಿಗೆ ಶಾಂತಿ ಮತ್ತು ಸುರಕ್ಷತೆಯನ್ನು ಮರಳಿ ತಂದರು.",
-                  "ಅವರ ಅಪಾರ ಶೌರ್ಯ ಮತ್ತು ರಕ್ಷಣಾತ್ಮಕ ಸ್ವಭಾವಕ್ಕೆ ಆಳವಾಗಿ ಕೃತಜ್ಞರಾದ ಗ್ರಾಮಸ್ಥರು, ಅವರನ್ನು ತಮ್ಮ ನಾಯಕನನ್ನಾಗಿ ಸಂತೋಷದಿಂದ ಒಪ್ಪಿಕೊಂಡರು. ರಣಭೈರೇಗೌಡರು ನ್ಯಾಯಯುತವಾದ ಆಡಳಿತವನ್ನು ಸ್ಥಾಪಿಸುವ ಮೂಲಕ 'ಆವತಿ ನಾಡು' ಅನ್ನು ಕಟ್ಟಿದರು. ಅವರು ಕೃಷಿಯ ಮೇಲೆ ಗಮನ ಹರಿಸಿದರು, ರೈತರಿಗೆ ಉತ್ತಮ ಬೆಳೆ ಬೆಳೆಯಲು ಸಹಾಯ ಮಾಡಲು ಸಣ್ಣ ಜಲಮೂಲಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಭಯಭೀತವಾಗಿದ್ದ ಆವತಿಯ ಸಣ್ಣ ವಸಾಹತನ್ನು, ವ್ಯಾಪಾರ ಮತ್ತು ಸಂಸ್ಕೃತಿಯ ಸಮೃದ್ಧ ಕೇಂದ್ರವನ್ನಾಗಿ ಪರಿವರ್ತಿಸಿದರು.",
-                  "ರಣಭೈರೇಗೌಡರನ್ನು ಇತಿಹಾಸದ ಪುಟಗಳಲ್ಲಿ ನಿಜವಾಗಿಯೂ ಅಮರರನ್ನಾಗಿಸುವುದು ಅವರು ಬಿಟ್ಟುಹೋದ ನಂಬಲಾಗದ ಪರಂಪರೆ. ಅವರು ಶ್ರೇಷ್ಠ ಯಲಹಂಕ ನಾಡಪ್ರಭು ರಾಜವಂಶದ ಮೂಲಪುರುಷರಾಗಿದ್ದರು. ಅವರ ಮಕ್ಕಳು ಮತ್ತು ಮೊಮ್ಮಕ್ಕಳು ವಿಶಾಲವಾದ ಪ್ರದೇಶಗಳನ್ನು ಆಳಿದರು, ಮತ್ತು ಅವರದೇ ಉದಾತ್ತ ಹಾಗೂ ಧೈರ್ಯಶಾಲಿ ವಂಶದಿಂದಲೇ ಮುಂದೆ ಬೆಂಗಳೂರು ಮಹಾನಗರವನ್ನು ನಿರ್ಮಿಸಿದ ದಂತಕಥೆಯಾದ ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡರು ಜನಿಸಿದ್ದು.",
-                  "ರಣಭೈರೇಗೌಡರು ಬೃಹತ್ ಕೋಟೆಗಳು ಅಥವಾ ಕಾಂಕ್ರೀಟ್ ನಗರಗಳನ್ನು ನಿರ್ಮಿಸದಿದ್ದರೂ, ಅವರ ಶುದ್ಧ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ನಿರ್ಭೀತ ಹೃದಯವು ಮುಂದಿನ ಎಲ್ಲಾ ವೈಭವಗಳಿಗೂ ಅಚಲವಾದ ಅಡಿಪಾಯವನ್ನು ಹಾಕಿತು. ಅವರು ಸರಳ, ಪ್ರಾಮಾಣಿಕ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು, ದುರ್ಬಲರನ್ನು ರಕ್ಷಿಸುವುದು ಮತ್ತು ಪ್ರತಿಯೊಂದು ಕುಟುಂಬಕ್ಕೂ ಸುರಕ್ಷಿತ ಸೂರು ಮತ್ತು ಊಟ ಸಿಗುವಂತೆ ಮಾಡುವುದು ಒಬ್ಬ ಆಡಳಿತಗಾರನ ಮೊದಲ ಕರ್ತವ್ಯ ಎಂದು ನಂಬಿದ್ದರು.",
-                  "ಇಂದು, ಆವತಿಯ ಪ್ರಶಾಂತ ಹಳ್ಳಿಯು ಇಂದಿಗೂ ತನ್ನ ಮೊದಲ ಮಹಾನ್ ನಾಯಕನ ಪವಿತ್ರ ನೆನಪುಗಳನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ. ರಣಭೈರೇಗೌಡರ ಅಸಾಧಾರಣ ಪಯಣವು ನಮಗೆ ಒಂದು ಸುಂದರವಾದ ಪಾಠವನ್ನು ಕಲಿಸುತ್ತದೆ: ಇತಿಹಾಸವನ್ನು ನಿರ್ಮಿಸಲು ನೀವು ಸಾಮ್ರಾಜ್ಯದೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸಬೇಕಾಗಿಲ್ಲ. ನಿಮ್ಮ ಸಮುದಾಯವನ್ನು ರಕ್ಷಿಸುವ ಮೂಲಕ, ಕರುಣಾಮಯಿ ಹೃದಯದಿಂದ ಮುನ್ನಡೆಸುವ ಮೂಲಕ ಮತ್ತು ಸಣ್ಣ ಹಳ್ಳಿಯಲ್ಲಿ ನ್ಯಾಯವನ್ನು ಸ್ಥಾಪಿಸುವ ಮೂಲಕ, ನೀವು ಭವಿಷ್ಯದಲ್ಲಿ ಲಕ್ಷಾಂತರ ಜನರಿಗೆ ಆಶ್ರಯ ನೀಡುವ ಭವ್ಯವಾದ ಮರವಾಗಿ ಬೆಳೆಯುವ ಬಲವಾದ ಬೀಜವನ್ನು ಬಿತ್ತಬಹುದು."
-                ]
-              },
-              "quiz": [
-                {
-                  "question_en": "From which region did Rana Bhaire Gowda travel before settling in Avati?",
-                  "question_kn": "ಆವತಿಯಲ್ಲಿ ನೆಲೆಸುವ ಮೊದಲು ರಣಭೈರೇಗೌಡರು ಯಾವ ಪ್ರದೇಶದಿಂದ ಪ್ರಯಾಣ ಬೆಳೆಸಿ ಬಂದರು?",
-                  "options_en": ["Delhi", "Kanchi", "Mysuru", "Kalyana"],
-                  "options_kn": ["ದೆಹಲಿ", "ಕಾಂಚಿ", "ಮೈಸೂರು", "ಕಲ್ಯಾಣ"],
-                  "answer": 1
-                },
-                {
-                  "question_en": "In which present-day taluk of Bengaluru Rural is the village of Avati located?",
-                  "question_kn": "ಆವತಿ ಗ್ರಾಮವು ಪ್ರಸ್ತುತ ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲೆಯ ಯಾವ ತಾಲೂಕಿನಲ್ಲಿದೆ?",
-                  "options_en": ["Nelamangala", "Hoskote", "Doddaballapura", "Devanahalli"],
-                  "options_kn": ["ನೆಲಮಂಗಲ", "ಹೊಸಕೋಟೆ", "ದೊಡ್ಡಬಳ್ಳಾಪುರ", "ದೇವನಹಳ್ಳಿ"],
-                  "answer": 3
-                },
-                {
-                  "question_en": "What did Rana Bhaire Gowda protect the villagers of Avati from?",
-                  "question_kn": "ಆವತಿಯ ಗ್ರಾಮಸ್ಥರನ್ನು ರಣಭೈರೇಗೌಡರು ಯಾವುದರಿಂದ ರಕ್ಷಿಸಿದರು?",
-                  "options_en": ["British soldiers", "Wild animals and cruel bandits", "Floods", "Earthquakes"],
-                  "options_kn": ["ಬ್ರಿಟಿಷ್ ಸೈನಿಕರು", "ಕಾಡು ಪ್ರಾಣಿಗಳು ಮತ್ತು ಕ್ರೂರ ಡಕಾಯಿತರು", "ಪ್ರವಾಹಗಳು", "ಭೂಕಂಪಗಳು"],
-                  "answer": 1
-                },
-                {
-                  "question_en": "Which famous and glorious lineage did Rana Bhaire Gowda establish?",
-                  "question_kn": "ರಣಭೈರೇಗೌಡರು ಯಾವ ಪ್ರಸಿದ್ಧ ಮತ್ತು ವೈಭವಯುತ ರಾಜವಂಶವನ್ನು ಸ್ಥಾಪಿಸಿದರು?",
-                  "options_en": ["The Wadiyars", "The Yelahanka Nadaprabhus", "The Hoysalas", "The Rashtrakutas"],
-                  "options_kn": ["ಒಡೆಯರ್ ವಂಶ", "ಯಲಹಂಕ ನಾಡಪ್ರಭುಗಳು", "ಹೊಯ್ಸಳರು", "ರಾಷ್ಟ್ರಕೂಟರು"],
-                  "answer": 1
-                },
-                {
-                  "question_en": "Which legendary builder of Bengaluru was born from his bloodline?",
-                  "question_kn": "ಬೆಂಗಳೂರಿನ ಯಾವ ಪ್ರಸಿದ್ಧ ನಿರ್ಮಾಪಕರು ಅವರ ವಂಶದಲ್ಲಿ ಜನಿಸಿದರು?",
-                  "options_en": ["Tipu Sultan", "Sir M. Visvesvaraya", "Nadaprabhu Kempegowda", "Mayurasharma"],
-                  "options_kn": ["ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ", "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡ", "ಮಯೂರಶರ್ಮ"],
-                  "answer": 2
-                }
-              ],
-              "location": {
-                "name": "Avati Village, Devanahalli",
-                "lat": 13.2925,
-                "lng": 77.6748
-              }
             }
 
       ]
@@ -3841,7 +3773,7 @@
               "id": "hero_dv_gundappa",
               "name_en": "Dr. D. V. Gundappa (DVG)",
               "name_kn": "ಡಾ. ಡಿ. ವಿ. ಗುಂಡಪ್ಪ (ಡಿವಿಜಿ)",
-              "image": "dv_gundappa",
+              "image": "dv",
               "short_desc_en": "The legendary philosopher and poet who gave Kannada its greatest philosophical treasure, the 'Mankuthimmana Kagga'.",
               "short_desc_kn": "ಕನ್ನಡಕ್ಕೆ 'ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ' ಎಂಬ ಶ್ರೇಷ್ಠ ತಾತ್ವಿಕ ನಿಧಿಯನ್ನು ನೀಡಿದ ದಾರ್ಶನಿಕ ಮತ್ತು ಕವಿ.",
               "story": {
@@ -3909,7 +3841,7 @@
               "id": "hero_masti_venkatesha_iyengar",
               "name_en": "Masti Venkatesha Iyengar",
               "name_kn": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
-              "image": "masti_venkatesha_iyengar",
+              "image": "masti",
               "short_desc_en": "The beloved 'Father of Kannada Short Stories' who brought the beautiful, simple lives of villagers into grand literature.",
               "short_desc_kn": "ಹಳ್ಳಿಗರ ಸುಂದರ ಮತ್ತು ಸರಳ ಜೀವನವನ್ನು ಸಾಹಿತ್ಯಕ್ಕೆ ತಂದ ಪ್ರೀತಿಯ 'ಸಣ್ಣ ಕಥೆಗಳ ಜನಕ'.",
               "story": {
@@ -3977,7 +3909,7 @@
               "id": "hero_kc_reddy",
               "name_en": "K. C. Reddy",
               "name_kn": "ಕೆ. ಸಿ. ರೆಡ್ಡಿ",
-              "image": "kc_reddy",
+              "image": "kc",
               "short_desc_en": "The fearless freedom fighter from Kolar who led the 'Mysore Chalo' movement and became the very first Chief Minister of Mysore State.",
               "short_desc_kn": "'ಮೈಸೂರು ಚಲೋ' ಚಳುವಳಿಯನ್ನು ಮುನ್ನಡೆಸಿ ಮೈಸೂರು ರಾಜ್ಯದ ಮೊಟ್ಟಮೊದಲ ಮುಖ್ಯಮಂತ್ರಿಯಾದ ಕೋಲಾರದ ವೀರ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ.",
               "story": {
@@ -4053,7 +3985,7 @@
               "id": "hero_bavas_miyan",
               "name_en": "Bavas Miyan",
               "name_kn": "ಬಾವಾಸ್ ಮಿಯಾನ್",
-              "image": "bavas_miyan",
+              "image": "bavas",
               "short_desc_en": "The legendary artisan who transformed Channapatna into the colorful, world-famous 'Toy Town'.",
               "short_desc_kn": "ಚನ್ನಪಟ್ಟಣವನ್ನು ಬಣ್ಣಬಣ್ಣದ, ವಿಶ್ವಪ್ರಸಿದ್ಧ 'ಗೊಂಬೆಗಳ ಊರು' ಆಗಿ ಪರಿವರ್ತಿಸಿದ ಶ್ರೇಷ್ಠ ಕರಕುಶಲಕರ್ಮಿ.",
               "story": {
@@ -4121,7 +4053,7 @@
               "id": "hero_magadi_kempegowda",
               "name_en": "Magadi Kempegowda",
               "name_kn": "ಮಾಗಡಿ ಕೆಂಪೇಗೌಡ",
-              "image": "magadi_kempegowda",
+              "image": "magadi",
               "short_desc_en": "The valiant ruler who made Magadi his capital and fiercely protected his kingdom from the impenetrable Savandurga fort.",
               "short_desc_kn": "ಮಾಗಡಿಯನ್ನು ರಾಜಧಾನಿಯನ್ನಾಗಿಸಿ, ಅಭೇದ್ಯ ಸಾವನದುರ್ಗ ಕೋಟೆಯಿಂದ ತನ್ನ ರಾಜ್ಯವನ್ನು ಉಗ್ರವಾಗಿ ರಕ್ಷಿಸಿದ ಶೂರ ಆಡಳಿತಗಾರ.",
               "story": {
